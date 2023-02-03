@@ -74,15 +74,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to my Website
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/And_K03"
+    - name: youtube
+      url: "https://www.youtube.com/@anand003"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/kanand003"
 
   analytics:
     google:
@@ -114,9 +114,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: about
+      name: about
+      url: /about/
       weight: 10
     - identifier: tags
       name: tags
