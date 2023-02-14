@@ -1,7 +1,10 @@
 baseURL: "https://kanand003.github.io/Website"
-title: Anand
+defaultContentLanguage: en
+languageCode: en
+title: Anand Kumar
 paginate: 5
 theme: PaperMod
+enableEmoji: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -58,23 +61,20 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: Anand Kumar
+    subtitle: "Game Programmer"
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - identifier: about
+        name: About Me
+        url: /Website/about
+      - name: Projects
+        url: /Website/projects
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my Website
+   # home-info mode
+   # homeInfoParams:
+   #  Title: "Hi there \U0001F44B"
+   # Content: Welcome to my Website
 
   socialIcons:
     - name: twitter
@@ -83,6 +83,8 @@ params:
       url: "https://www.youtube.com/@anand003"
     - name: github
       url: "https://github.com/kanand003"
+    - name: email
+      url: "mailto:anand_kumar1999@hotmail.com?subject= Hi Anand"  
 
   analytics:
     google:
@@ -112,13 +114,17 @@ params:
 menu:
   main:
     - identifier: about
-      name: about
-      url: /about/
-      weight: 10
+      name: About Me
+      url: "/about"
+      weight: 1
     - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 20
+      name: Posts
+      url: "/post"
+      weight: 2
+    - identifier: projects
+      name: Projects
+      url: "/projects"
+      weight: 3  
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
