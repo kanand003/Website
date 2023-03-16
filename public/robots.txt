@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kanand003.github.io/Website/sitemap.xml

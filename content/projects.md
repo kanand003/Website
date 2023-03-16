@@ -2,5 +2,6 @@
 title: "Projects"
 date: true
 draft: false
-url: "/projects"
+ShowBreadCrumbs: true
+url: "/projects/"
 ---
