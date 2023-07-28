@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anand Kumar</title>
+    <link>https://kanand003.github.io/Website/</link>
+    <description>Recent content on Anand Kumar</description>
+    <image>
+      <url>https://kanand003.github.io/Website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kanand003.github.io/Website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://kanand003.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://kanand003.github.io/Website/post/first-post/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/post/first-post/</guid>
+      <description>My first Post</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://kanand003.github.io/Website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/about/</guid>
+      <description>Introduction Hi there I&amp;rsquo;m Anand Kumar, and I&amp;rsquo;m a game programmer at Studio Sirah.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.
+My expertise lies in creating the mechanics and systems that drive gameplay, from physics and AI to user interface design and multiplayer networking. I have a deep understanding of game engine development, allowing me to create custom tools and workflows that streamline development and optimize game performance.</description>
+    </item>
+    
+    <item>
+      <title>Brick Breaker Game</title>
+      <link>https://kanand003.github.io/Website/projects/brick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/projects/brick/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.</description>
+    </item>
+    
+    <item>
+      <title>Lily Game Engine</title>
+      <link>https://kanand003.github.io/Website/projects/lily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/projects/lily/</guid>
+      <description>Introduction This post talks about my work in progress Game Engine.
+More to come soon!!! :)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://kanand003.github.io/Website/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RayTracer</title>
+      <link>https://kanand003.github.io/Website/projects/raytracer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/projects/raytracer/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.</description>
+    </item>
+    
+    <item>
+      <title>Wordle</title>
+      <link>https://kanand003.github.io/Website/projects/wordle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanand003.github.io/Website/projects/wordle/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.</description>
+    </item>
+    
+  </channel>
+</rss>
