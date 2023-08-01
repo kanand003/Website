@@ -9,4 +9,7 @@ url: "/projects/lily"
 # Introduction
 
 This post talks about my work in progress Game Engine.  
-More to come soon!!! :)
+I have been working on this engine for approximately 6 months. 
+This is my first time making a game engine
+
+<!--Add photo -->
