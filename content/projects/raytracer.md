@@ -4,7 +4,7 @@ date: true
 draft: false
 url: "/projects/raytracer"
 cover:
-    image: "static/images/Image_Final.JPG"
+    image: "/images/Image_Final.jpg"
 description : A ray tracer desc
 summary: A ray tracer summary    
 ---
