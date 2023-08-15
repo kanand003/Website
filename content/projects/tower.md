@@ -2,6 +2,8 @@
 title: "Tower"
 date: 2023-08-01T22:37:32+05:30
 draft: false
+cover:
+    image: "/images/Capture.png"
 ---
 ## Introduction
 

@@ -3,8 +3,7 @@ title: "RayTracer"
 date: true
 draft: false
 url: "/projects/raytracer"
-cover:
-    image: "/images/Image_Final.jpg"
+image: "/images/Image_Final.jpg"
 description : A ray tracer desc
 summary: A ray tracer summary    
 ---
