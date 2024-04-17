@@ -35,3 +35,5 @@ cover:
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.
+
+I'm going to start writing from today.
