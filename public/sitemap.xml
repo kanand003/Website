@@ -2,35 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kanand003.github.io/Website/</loc>
+    <loc>http://localhost:1313/Website/</loc>
+    <lastmod>2024-04-22T22:18:23+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/</loc>
+    <lastmod>2024-04-22T22:18:23+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/caching/</loc>
+    <lastmod>2024-04-22T22:03:31+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/first/</loc>
+    <lastmod>2024-04-22T22:03:31+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/</loc>
+    <lastmod>2024-04-22T22:03:31+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/projects/tower/</loc>
+    <lastmod>2023-08-01T22:37:32+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/first-post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/Website/about/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/first-post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/Website/projects/brick/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/Website/categories/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/Website/projects/lily/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/about/</loc>
+    <loc>http://localhost:1313/Website/post/test/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/brick/</loc>
+    <loc>http://localhost:1313/Website/projects/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/categories/</loc>
+    <loc>http://localhost:1313/Website/projects/raytracer/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/lily/</loc>
-  </url><url>
-    <loc>https://kanand003.github.io/Website/projects/</loc>
-  </url><url>
-    <loc>https://kanand003.github.io/Website/projects/</loc>
-  </url><url>
-    <loc>https://kanand003.github.io/Website/projects/raytracer/</loc>
-  </url><url>
-    <loc>https://kanand003.github.io/Website/projects/wordle/</loc>
+    <loc>http://localhost:1313/Website/projects/wordle/</loc>
   </url>
 </urlset>
