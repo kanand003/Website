@@ -1,80 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anand Kumar</title>
-    <link>https://kanand003.github.io/Website/</link>
+    <link>http://localhost:1313/Website/</link>
     <description>Recent content on Anand Kumar</description>
-    <image>
-      <url>https://kanand003.github.io/Website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kanand003.github.io/Website/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://kanand003.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 22:03:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caching</title>
+      <link>http://localhost:1313/Website/post/caching/</link>
+      <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/caching/</guid>
+      <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, sso that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
+    </item>
+    <item>
+      <title>Tower</title>
+      <link>http://localhost:1313/Website/projects/tower/</link>
+      <pubDate>Tue, 01 Aug 2023 22:37:32 +0530</pubDate>
+      <guid>http://localhost:1313/Website/projects/tower/</guid>
+      <description>Introduction This post talks about my project which was Tower Defense Game made in Unity Engine. This is a functioning where the focus was on experimenting with pathfinding algorithms for player and enemy positions.</description>
+    </item>
     <item>
       <title>My 1st post</title>
-      <link>https://kanand003.github.io/Website/post/first-post/</link>
+      <link>http://localhost:1313/Website/post/first-post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/post/first-post/</guid>
-      <description>My first Post</description>
+      <guid>http://localhost:1313/Website/post/first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;I&amp;rsquo;m going to start writing from today.</description>
     </item>
-    
     <item>
       <title>About Me</title>
-      <link>https://kanand003.github.io/Website/about/</link>
+      <link>http://localhost:1313/Website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/about/</guid>
-      <description>Introduction Hi there I&amp;rsquo;m Anand Kumar, and I&amp;rsquo;m a game programmer at Studio Sirah.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.
-My expertise lies in creating the mechanics and systems that drive gameplay, from physics and AI to user interface design and multiplayer networking. I have a deep understanding of game engine development, allowing me to create custom tools and workflows that streamline development and optimize game performance.</description>
+      <guid>http://localhost:1313/Website/about/</guid>
+      <description>Introduction Hi there I&amp;rsquo;m Anand Kumar, and I&amp;rsquo;m a game programmer at Studio Sirah.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.&#xA;I specialize in creating gameplay mechanics, AI, user interfaces, and multiplayer networking. With a deep understanding of game engine development, I build custom tools to streamline development and optimize performance. I also collaborate effectively with artists for graphics development to bring game worlds to life.</description>
     </item>
-    
     <item>
       <title>Brick Breaker Game</title>
-      <link>https://kanand003.github.io/Website/projects/brick/</link>
+      <link>http://localhost:1313/Website/projects/brick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/projects/brick/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.</description>
+      <guid>http://localhost:1313/Website/projects/brick/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result</description>
     </item>
-    
     <item>
       <title>Lily Game Engine</title>
-      <link>https://kanand003.github.io/Website/projects/lily/</link>
+      <link>http://localhost:1313/Website/projects/lily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/projects/lily/</guid>
-      <description>Introduction This post talks about my work in progress Game Engine.
-More to come soon!!! :)</description>
+      <guid>http://localhost:1313/Website/projects/lily/</guid>
+      <description>Introduction This post talks about my work in progress Game Engine.&#xA;I have been working on this engine for approximately 6 months. This is my first time making a game engine</description>
     </item>
-    
+    <item>
+      <title>My 2nd post</title>
+      <link>http://localhost:1313/Website/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/post/test/</guid>
+      <description>Testing </description>
+    </item>
     <item>
       <title>Projects</title>
-      <link>https://kanand003.github.io/Website/projects/</link>
+      <link>http://localhost:1313/Website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/projects/</guid>
+      <guid>http://localhost:1313/Website/projects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RayTracer</title>
-      <link>https://kanand003.github.io/Website/projects/raytracer/</link>
+      <link>http://localhost:1313/Website/projects/raytracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/projects/raytracer/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.</description>
+      <guid>http://localhost:1313/Website/projects/raytracer/</guid>
+      <description>A ray tracer summary</description>
     </item>
-    
     <item>
       <title>Wordle</title>
-      <link>https://kanand003.github.io/Website/projects/wordle/</link>
+      <link>http://localhost:1313/Website/projects/wordle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kanand003.github.io/Website/projects/wordle/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.</description>
+      <guid>http://localhost:1313/Website/projects/wordle/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Created a Desktop Version of wordle. Used SFML framework to help build the game. This took a period of 2 months to develop.</description>
     </item>
-    
   </channel>
 </rss>
