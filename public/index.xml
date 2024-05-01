@@ -13,7 +13,7 @@
       <link>http://localhost:1313/Website/post/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
       <guid>http://localhost:1313/Website/post/caching/</guid>
-      <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, sso that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
+      <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
     </item>
     <item>
       <title>Tower</title>
@@ -21,6 +21,13 @@
       <pubDate>Tue, 01 Aug 2023 22:37:32 +0530</pubDate>
       <guid>http://localhost:1313/Website/projects/tower/</guid>
       <description>Introduction This post talks about my project which was Tower Defense Game made in Unity Engine. This is a functioning where the focus was on experimenting with pathfinding algorithms for player and enemy positions.</description>
+    </item>
+    <item>
+      <title>Lerping</title>
+      <link>http://localhost:1313/Website/post/lerping/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/Website/post/lerping/</guid>
+      <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
     </item>
     <item>
       <title>My 1st post</title>
@@ -49,13 +56,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/lily/</guid>
       <description>Introduction This post talks about my work in progress Game Engine.&#xA;I have been working on this engine for approximately 6 months. This is my first time making a game engine</description>
-    </item>
-    <item>
-      <title>My 2nd post</title>
-      <link>http://localhost:1313/Website/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/post/test/</guid>
-      <description>Testing </description>
     </item>
     <item>
       <title>Projects</title>
