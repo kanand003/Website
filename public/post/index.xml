@@ -13,7 +13,14 @@
       <link>http://localhost:1313/Website/post/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
       <guid>http://localhost:1313/Website/post/caching/</guid>
-      <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, sso that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
+      <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
+    </item>
+    <item>
+      <title>Lerping</title>
+      <link>http://localhost:1313/Website/post/lerping/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/Website/post/lerping/</guid>
+      <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
     </item>
     <item>
       <title>My 1st post</title>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/Website/post/first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;I&amp;rsquo;m going to start writing from today.</description>
-    </item>
-    <item>
-      <title>My 2nd post</title>
-      <link>http://localhost:1313/Website/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/post/test/</guid>
-      <description>Testing </description>
     </item>
   </channel>
 </rss>
