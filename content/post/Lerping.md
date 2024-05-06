@@ -1,6 +1,6 @@
 ---
 title: "Lerping"
-date: 2020-09-15T11:30:03+00:00
+date: 2024-05-03T22:52:30+05:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["Lerping"]
@@ -58,4 +58,4 @@ For example, to animate a button, fade the screen to black or move an object to 
 
 ## Is it worth it?
 
-For writing simple scripts lerp is useful. Otherwise I would recommend to buy assets such as Dot Tween which has more features.s
+For writing simple scripts lerp is useful. Otherwise I would recommend to buy assets such as Dot Tween which has more features.

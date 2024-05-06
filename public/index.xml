@@ -6,8 +6,22 @@
     <description>Recent content on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Apr 2024 22:03:31 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 22:52:30 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serialization</title>
+      <link>http://localhost:1313/Website/post/serialization/</link>
+      <pubDate>Mon, 06 May 2024 22:52:30 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/serialization/</guid>
+      <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
+    </item>
+    <item>
+      <title>Cache</title>
+      <link>http://localhost:1313/Website/post/cache/</link>
+      <pubDate>Mon, 22 Apr 2024 22:18:23 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/cache/</guid>
+      <description>Hello World </description>
+    </item>
     <item>
       <title>Caching</title>
       <link>http://localhost:1313/Website/post/caching/</link>
@@ -56,6 +70,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/lily/</guid>
       <description>Introduction This post talks about my work in progress Game Engine.&#xA;I have been working on this engine for approximately 6 months. This is my first time making a game engine</description>
+    </item>
+    <item>
+      <title>My 2nd post</title>
+      <link>http://localhost:1313/Website/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/post/test/</guid>
+      <description>Testing </description>
     </item>
     <item>
       <title>Projects</title>
