@@ -1,5 +1,5 @@
 ---
-title: "Serilization"
+title: "Serialization"
 date: 2024-05-03T22:52:30+05:30
 # weight: 1
 # aliases: ["/first"]
