@@ -3,16 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Website/</loc>
-    <lastmod>2024-05-06T22:52:30+05:30</lastmod>
+    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/classes/</loc>
+    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/</loc>
-    <lastmod>2024-05-06T22:52:30+05:30</lastmod>
+    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/structs/</loc>
+    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/structs_vs_classes/</loc>
+    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/</loc>
+    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/lerping/</loc>
+    <lastmod>2024-05-03T22:52:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/lerping/</loc>
+    <lastmod>2024-05-03T22:52:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/serialization/</loc>
+    <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/serialization/</loc>
-    <lastmod>2024-05-06T22:52:30+05:30</lastmod>
+    <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/post/cache/</loc>
-    <lastmod>2024-04-22T22:18:23+05:30</lastmod>
+    <loc>http://localhost:1313/Website/post/test/</loc>
+    <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/tags/caching/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
@@ -20,19 +41,10 @@
     <loc>http://localhost:1313/Website/post/caching/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Website/tags/</loc>
-    <lastmod>2024-04-22T22:03:31+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/Website/projects/tower/</loc>
     <lastmod>2023-08-01T22:37:32+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/tags/lerping/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/post/lerping/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/first-post/</loc>
@@ -45,8 +57,6 @@
     <loc>http://localhost:1313/Website/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/Website/projects/lily/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Website/post/test/</loc>
   </url><url>
     <loc>http://localhost:1313/Website/projects/</loc>
   </url><url>

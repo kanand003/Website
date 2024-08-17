@@ -7,7 +7,7 @@ url: "/about"
 
 ## Introduction
 
-Hi there I'm Anand Kumar, and I'm a game programmer at Studio Sirah.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.
+Hi there I'm Anand Kumar, and I work as a Game Programmer.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.
 
 I specialize in creating gameplay mechanics, AI, user interfaces, and multiplayer networking. With a deep understanding of game engine development, I build custom tools to streamline development and optimize performance. I also collaborate effectively with artists for graphics development to bring game worlds to life.
 

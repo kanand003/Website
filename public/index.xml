@@ -6,21 +6,35 @@
     <description>Recent content on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 May 2024 22:52:30 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structs_VS_Classes</title>
+      <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
+      <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/structs_vs_classes/</guid>
+      <description>What are Structs? Structs are similar to classes in that they represent data structures that can contain data members and function members. Structs are best used when you need to represent simple data types, such as integers, strings, or other basic data types.&#xA;A variable of a struct type directly contains the data of the struct, whereas a variable of a class type contains a reference to the data, the latter known as an object.</description>
+    </item>
+    <item>
+      <title>Lerping</title>
+      <link>http://localhost:1313/Website/post/lerping/</link>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/lerping/</guid>
+      <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
+    </item>
     <item>
       <title>Serialization</title>
       <link>http://localhost:1313/Website/post/serialization/</link>
-      <pubDate>Mon, 06 May 2024 22:52:30 +0530</pubDate>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
       <guid>http://localhost:1313/Website/post/serialization/</guid>
       <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
     </item>
     <item>
-      <title>Cache</title>
-      <link>http://localhost:1313/Website/post/cache/</link>
-      <pubDate>Mon, 22 Apr 2024 22:18:23 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/cache/</guid>
-      <description>Hello World </description>
+      <title>Serialization</title>
+      <link>http://localhost:1313/Website/post/test/</link>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/test/</guid>
+      <description>Testing </description>
     </item>
     <item>
       <title>Caching</title>
@@ -37,13 +51,6 @@
       <description>Introduction This post talks about my project which was Tower Defense Game made in Unity Engine. This is a functioning where the focus was on experimenting with pathfinding algorithms for player and enemy positions.</description>
     </item>
     <item>
-      <title>Lerping</title>
-      <link>http://localhost:1313/Website/post/lerping/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/Website/post/lerping/</guid>
-      <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
-    </item>
-    <item>
       <title>My 1st post</title>
       <link>http://localhost:1313/Website/post/first-post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
@@ -55,7 +62,7 @@
       <link>http://localhost:1313/Website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/about/</guid>
-      <description>Introduction Hi there I&amp;rsquo;m Anand Kumar, and I&amp;rsquo;m a game programmer at Studio Sirah.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.&#xA;I specialize in creating gameplay mechanics, AI, user interfaces, and multiplayer networking. With a deep understanding of game engine development, I build custom tools to streamline development and optimize performance. I also collaborate effectively with artists for graphics development to bring game worlds to life.</description>
+      <description>Introduction Hi there I&amp;rsquo;m Anand Kumar, and I work as a Game Programmer.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.&#xA;I specialize in creating gameplay mechanics, AI, user interfaces, and multiplayer networking. With a deep understanding of game engine development, I build custom tools to streamline development and optimize performance. I also collaborate effectively with artists for graphics development to bring game worlds to life.</description>
     </item>
     <item>
       <title>Brick Breaker Game</title>
@@ -70,13 +77,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/lily/</guid>
       <description>Introduction This post talks about my work in progress Game Engine.&#xA;I have been working on this engine for approximately 6 months. This is my first time making a game engine</description>
-    </item>
-    <item>
-      <title>My 2nd post</title>
-      <link>http://localhost:1313/Website/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/post/test/</guid>
-      <description>Testing </description>
     </item>
     <item>
       <title>Projects</title>

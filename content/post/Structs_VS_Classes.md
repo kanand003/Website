@@ -3,7 +3,7 @@ title: "Structs_VS_Classes"
 date: 2024-05-08T21:57:34+05:30
 # weight: 1
 # aliases: ["/first"]
-tags: ["Structs"]
+tags: ["Structs","Classes"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
