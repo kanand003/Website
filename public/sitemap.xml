@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Website/</loc>
-    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/projects/url_shortener/</loc>
-    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/projects/filecompression/</loc>
-    <lastmod>2024-09-02T22:16:24+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/tags/classes/</loc>
-    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
+    <lastmod>2024-11-13T11:31:07+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/</loc>
+    <lastmod>2024-11-13T11:31:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/singleton/</loc>
+    <lastmod>2024-11-13T11:31:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/posts/</loc>
+    <lastmod>2024-09-23T20:52:57+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/classes/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/tags/structs/</loc>
@@ -36,9 +36,6 @@
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/serialization/</loc>
-    <lastmod>2024-05-03T22:52:30+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/post/test/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/tags/caching/</loc>

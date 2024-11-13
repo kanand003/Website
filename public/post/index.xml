@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 11:31:07 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Singleton</title>
+      <link>http://localhost:1313/Website/post/singleton/</link>
+      <pubDate>Wed, 13 Nov 2024 11:31:07 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/singleton/</guid>
+      <description>Singleton Pattern in Unity 1. Introductory Overview Pattern Name: Singleton Pattern One-Sentence Summary: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity. Visual/GIF: (Replace with the actual path to your visual aid) 2. Problem Context Practical Scenario: In many games, you need a centralized manager for handling game states, audio, or settings.</description>
+    </item>
     <item>
       <title>Structs_VS_Classes</title>
       <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
@@ -28,13 +35,6 @@
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
       <guid>http://localhost:1313/Website/post/serialization/</guid>
       <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
-    </item>
-    <item>
-      <title>Serialization</title>
-      <link>http://localhost:1313/Website/post/test/</link>
-      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/test/</guid>
-      <description>Testing </description>
     </item>
     <item>
       <title>Caching</title>
