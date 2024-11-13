@@ -12,6 +12,8 @@ summary: A ray tracer summary
 
 Made a ray tracer over a weekend. Was quite happy with the final results.
 
+https://github.com/kanand003/RayTracerWeekend
+
 <!--Add photo -->
 
 ## Showcase Video

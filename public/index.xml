@@ -6,8 +6,22 @@
     <description>Recent content on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 22:25:12 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>URL_Shortener</title>
+      <link>http://localhost:1313/Website/projects/url_shortener/</link>
+      <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/projects/url_shortener/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FileCompression</title>
+      <link>http://localhost:1313/Website/projects/filecompression/</link>
+      <pubDate>Mon, 02 Sep 2024 22:16:24 +0530</pubDate>
+      <guid>http://localhost:1313/Website/projects/filecompression/</guid>
+      <description>File compression is a technique used to reduce the size of a file by encoding its data in a more efficient way. This is done to save storage space and improve transmission speed. There are various compression algorithms available, such as ZIP, GZIP, and BZIP2, which can be used to compress different types of files. Compressed files need to be decompressed before they can be used again.</description>
+    </item>
     <item>
       <title>Structs_VS_Classes</title>
       <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
@@ -48,7 +62,7 @@
       <link>http://localhost:1313/Website/projects/tower/</link>
       <pubDate>Tue, 01 Aug 2023 22:37:32 +0530</pubDate>
       <guid>http://localhost:1313/Website/projects/tower/</guid>
-      <description>Introduction This post talks about my project which was Tower Defense Game made in Unity Engine. This is a functioning where the focus was on experimenting with pathfinding algorithms for player and enemy positions.</description>
+      <description>Introduction Implemented a simple prototype of a Tower Defense Game. Used Pathfinding Algorithms to create the enemy movement&#xA;https://github.com/kanand003/Tower</description>
     </item>
     <item>
       <title>My 1st post</title>
@@ -69,14 +83,14 @@
       <link>http://localhost:1313/Website/projects/brick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/brick/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result</description>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result&#xA;https://github.com/kanand003/BrickBreaker</description>
     </item>
     <item>
       <title>Lily Game Engine</title>
       <link>http://localhost:1313/Website/projects/lily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/lily/</guid>
-      <description>Introduction This post talks about my work in progress Game Engine.&#xA;I have been working on this engine for approximately 6 months. This is my first time making a game engine</description>
+      <description>Introduction https://github.com/kanand003/Lily</description>
     </item>
     <item>
       <title>Projects</title>
@@ -97,7 +111,7 @@
       <link>http://localhost:1313/Website/projects/wordle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/wordle/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Created a Desktop Version of wordle. Used SFML framework to help build the game. This took a period of 2 months to develop.</description>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Created a Desktop Version of wordle. Used SFML framework to help build the game. This took a period of 2 months to develop.&#xA;https://github.com/kanand003/WordleClone</description>
     </item>
   </channel>
 </rss>

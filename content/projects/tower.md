@@ -7,7 +7,8 @@ cover:
 ---
 ## Introduction
 
-This post talks about my project which was Tower Defense Game made in Unity Engine.
-This is a functioning where the focus was on experimenting with pathfinding algorithms for player and enemy positions.
+Implemented a simple prototype of a Tower Defense Game. Used Pathfinding Algorithms to create the enemy movement
+
+https://github.com/kanand003/Tower
 
 <!--Add photo -->

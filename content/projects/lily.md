@@ -8,8 +8,6 @@ url: "/projects/lily"
 
 # Introduction
 
-This post talks about my work in progress Game Engine.  
-I have been working on this engine for approximately 6 months. 
-This is my first time making a game engine
+https://github.com/kanand003/Lily
 
 <!--Add photo -->
