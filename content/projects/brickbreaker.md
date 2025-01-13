@@ -3,7 +3,7 @@ title: "Brick Breaker Game"
 date: true
 draft: false
 url: "/projects/brick"
-image: "/images/Capture2.JPG"
+image: "/Website/images/Capture2.JPG"
 ---
 
 ## Introduction
