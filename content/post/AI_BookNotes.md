@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "AI_BookNotes"
+date: 2025-01-13T22:58:58+05:30
 draft: true
 tags: []
 author: "Me"
@@ -52,4 +52,5 @@ UseHugoToc: true
 
 - [Reference 1]
 - [Reference 2]
+
 

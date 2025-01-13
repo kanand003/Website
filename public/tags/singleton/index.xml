@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singleton on Anand Kumar</title>
+    <link>http://localhost:1313/Website/tags/singleton/</link>
+    <description>Recent content in Singleton on Anand Kumar</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Apr 2024 22:03:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/Website/tags/singleton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Singleton</title>
+      <link>http://localhost:1313/Website/post/singleton/</link>
+      <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/singleton/</guid>
+      <description>Singleton Pattern in Unity 1. Introductory Overview Pattern Name: Singleton Pattern One-Sentence Summary: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity. 2. Problem Context Practical Scenario: In many games, you need a centralized manager for handling game states, audio, or settings. For example, a GameManager that persists across scenes to track player progress and game state.</description>
+    </item>
+  </channel>
+</rss>

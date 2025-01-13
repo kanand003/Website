@@ -3,13 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Website/</loc>
-    <lastmod>2024-11-13T11:31:07+05:30</lastmod>
+    <lastmod>2025-01-13T22:59:06+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/</loc>
-    <lastmod>2024-11-13T11:31:07+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/post/singleton/</loc>
-    <lastmod>2024-11-13T11:31:07+05:30</lastmod>
+    <lastmod>2025-01-13T22:59:06+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/posts/</loc>
     <lastmod>2024-09-23T20:52:57+05:30</lastmod>
@@ -42,6 +39,12 @@
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/caching/</loc>
+    <lastmod>2024-04-22T22:03:31+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/singleton/</loc>
+    <lastmod>2024-04-22T22:03:31+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/post/singleton/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/projects/tower/</loc>
