@@ -8,24 +8,15 @@ image: "/Website/images/Capture2.JPG"
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result.
 
-Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result
+## Project Preview
 
-https://github.com/kanand003/BrickBreaker
+<!-- Main project image with styling -->
+<div style="max-width: 800px; margin: 20px auto;">
+    <img src="/Website/images/Capture2.JPG" alt="Brick Breaker Game Preview" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
-<!-- Debug Image Tests -->
-1. Absolute path with Website:
-![Test1](/Website/images/Capture2.JPG)
+## GitHub Repository
 
-2. Absolute path without Website:
-![Test2](/images/Capture2.JPG)
-
-3. Relative path:
-![Test3](../../static/images/Capture2.JPG)
-
-4. Direct URL:
-![Test4](https://kanand003.github.io/Website/images/Capture2.JPG)
-
-<!-- Original photo comment -->
-<!--Add photo -->
+Check out the code: [BrickBreaker on GitHub](https://github.com/kanand003/BrickBreaker)
