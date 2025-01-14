@@ -83,6 +83,8 @@ params:
       url: "https://www.youtube.com/@anand003"
     - name: github
       url: "https://github.com/kanand003"
+    - name: strava
+      url: "https://www.strava.com/athletes/100945115"
     - name: email
       url: "mailto:anand_kumar1999@hotmail.com?subject= Hi Anand"  
 
