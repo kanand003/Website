@@ -12,14 +12,6 @@ Developed A 2D Brick Breaker using OpenGL Framework. This was my first project w
 
 ## Project Preview
 
-<!-- Debug Image Tests -->
-1. Absolute path with Website:
-![Test1](/Website/images/Capture2.JPG)
-2. Absolute path without Website:
-![Test2](/images/Capture2.JPG)
-3. Relative path:
-![Test3](../../static/images/Capture2.JPG)
-4. Direct URL:
 ![Test4](https://kanand003.github.io/Website/images/Capture2.JPG)
 <!-- Original photo comment -->
 
