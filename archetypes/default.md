@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: true
 tags: []
 author: "Me"
+# weight: 1 // To Pin a Post
 showToc: true
 TocOpen: false
 hidemeta: false
