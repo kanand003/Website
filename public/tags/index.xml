@@ -2,59 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anand Kumar</title>
-    <link>https://kanand003.github.io/Website/tags/</link>
+    <link>http://localhost:1313/Website/tags/</link>
     <description>Recent content in Tags on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
-    <atom:link href="https://kanand003.github.io/Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classes</title>
-      <link>https://kanand003.github.io/Website/tags/classes/</link>
+      <link>http://localhost:1313/Website/tags/classes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/classes/</guid>
+      <guid>http://localhost:1313/Website/tags/classes/</guid>
       <description></description>
     </item>
     <item>
       <title>Structs</title>
-      <link>https://kanand003.github.io/Website/tags/structs/</link>
+      <link>http://localhost:1313/Website/tags/structs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/structs/</guid>
+      <guid>http://localhost:1313/Website/tags/structs/</guid>
       <description></description>
     </item>
     <item>
       <title>Lerping</title>
-      <link>https://kanand003.github.io/Website/tags/lerping/</link>
+      <link>http://localhost:1313/Website/tags/lerping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/lerping/</guid>
+      <guid>http://localhost:1313/Website/tags/lerping/</guid>
       <description></description>
     </item>
     <item>
       <title>Serialization</title>
-      <link>https://kanand003.github.io/Website/tags/serialization/</link>
+      <link>http://localhost:1313/Website/tags/serialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/serialization/</guid>
+      <guid>http://localhost:1313/Website/tags/serialization/</guid>
       <description></description>
     </item>
     <item>
       <title>Caching</title>
-      <link>https://kanand003.github.io/Website/tags/caching/</link>
+      <link>http://localhost:1313/Website/tags/caching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/caching/</guid>
+      <guid>http://localhost:1313/Website/tags/caching/</guid>
       <description></description>
     </item>
     <item>
       <title>Singleton</title>
-      <link>https://kanand003.github.io/Website/tags/singleton/</link>
+      <link>http://localhost:1313/Website/tags/singleton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/singleton/</guid>
+      <guid>http://localhost:1313/Website/tags/singleton/</guid>
       <description></description>
     </item>
     <item>
-      <title>First</title>
-      <link>https://kanand003.github.io/Website/tags/first/</link>
+      <title>C#</title>
+      <link>http://localhost:1313/Website/tags/c%23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/first/</guid>
+      <guid>http://localhost:1313/Website/tags/c%23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Structures</title>
+      <link>http://localhost:1313/Website/tags/data-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/tags/data-structures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSON</title>
+      <link>http://localhost:1313/Website/tags/json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parsing</title>
+      <link>http://localhost:1313/Website/tags/parsing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/tags/parsing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/Website/tags/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/tags/programming/</guid>
       <description></description>
     </item>
   </channel>

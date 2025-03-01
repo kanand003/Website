@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anand Kumar</title>
-    <link>https://kanand003.github.io/Website/</link>
+    <link>http://localhost:1313/Website/</link>
     <description>Recent content on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
-    <atom:link href="https://kanand003.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSON Parser Implementation</title>
+      <link>http://localhost:1313/Website/projects/json_parser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/projects/json_parser/</guid>
+      <description>Project Overview This project implements a JSON parser in C# that transforms JSON text into usable data structures and vice versa. The implementation includes a lexer for tokenization, a parser for syntactic analysis, and a serializer for converting objects back to JSON text.&#xA;View on GitHub&#xA;Key Features Lexical analysis with comprehensive token handling Recursive descent parsing Support for all JSON data types Robust error handling Clean, maintainable code structure Implementation Details Basic Usage string json = &amp;#34;{ \&amp;#34;name\&amp;#34;: \&amp;#34;John\&amp;#34;, \&amp;#34;age\&amp;#34;: 30, \&amp;#34;isStudent\&amp;#34;: false }&amp;#34;; // Tokenize var lexer = new JsonLexer(json); var tokens = lexer.</description>
+    </item>
     <item>
       <title>Structs_VS_Classes</title>
-      <link>https://kanand003.github.io/Website/post/structs_vs_classes/</link>
+      <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/post/structs_vs_classes/</guid>
+      <guid>http://localhost:1313/Website/post/structs_vs_classes/</guid>
       <description>What are Structs? Structs are similar to classes in that they represent data structures that can contain data members and function members. Structs are best used when you need to represent simple data types, such as integers, strings, or other basic data types.&#xA;A variable of a struct type directly contains the data of the struct, whereas a variable of a class type contains a reference to the data, the latter known as an object.</description>
     </item>
     <item>
       <title>Lerping</title>
-      <link>https://kanand003.github.io/Website/post/lerping/</link>
+      <link>http://localhost:1313/Website/post/lerping/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/post/lerping/</guid>
+      <guid>http://localhost:1313/Website/post/lerping/</guid>
       <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
     </item>
     <item>
       <title>Serialization</title>
-      <link>https://kanand003.github.io/Website/post/serialization/</link>
+      <link>http://localhost:1313/Website/post/serialization/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/post/serialization/</guid>
+      <guid>http://localhost:1313/Website/post/serialization/</guid>
       <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
     </item>
     <item>
       <title>Caching</title>
-      <link>https://kanand003.github.io/Website/post/caching/</link>
+      <link>http://localhost:1313/Website/post/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/post/caching/</guid>
+      <guid>http://localhost:1313/Website/post/caching/</guid>
       <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
     </item>
     <item>
       <title>Singleton</title>
-      <link>https://kanand003.github.io/Website/post/singleton/</link>
+      <link>http://localhost:1313/Website/post/singleton/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/post/singleton/</guid>
+      <guid>http://localhost:1313/Website/post/singleton/</guid>
       <description>Singleton Pattern in Unity 1. Introductory Overview Pattern Name: Singleton Pattern One-Sentence Summary: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity. 2. Problem Context Practical Scenario: In many games, you need a centralized manager for handling game states, audio, or settings. For example, a GameManager that persists across scenes to track player progress and game state.</description>
     </item>
     <item>
       <title>Tower</title>
-      <link>https://kanand003.github.io/Website/projects/tower/</link>
+      <link>http://localhost:1313/Website/projects/tower/</link>
       <pubDate>Tue, 01 Aug 2023 22:37:32 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/projects/tower/</guid>
+      <guid>http://localhost:1313/Website/projects/tower/</guid>
       <description>Introduction Implemented a simple prototype of a Tower Defense Game. Used Pathfinding Algorithms to create the enemy movement&#xA;https://github.com/kanand003/Tower</description>
     </item>
     <item>
-      <title>My 1st post</title>
-      <link>https://kanand003.github.io/Website/post/first-post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/post/first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;I&amp;rsquo;m going to start writing from today.</description>
-    </item>
-    <item>
       <title>About Me</title>
-      <link>https://kanand003.github.io/Website/about/</link>
+      <link>http://localhost:1313/Website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/about/</guid>
+      <guid>http://localhost:1313/Website/about/</guid>
       <description>Introduction Hi there I&amp;rsquo;m Anand Kumar, and I work as a Game Programmer.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.&#xA;I specialize in creating gameplay mechanics, AI, user interfaces, and multiplayer networking. With a deep understanding of game engine development, I build custom tools to streamline development and optimize performance. I also collaborate effectively with artists for graphics development to bring game worlds to life.</description>
     </item>
     <item>
       <title>Brick Breaker Game</title>
-      <link>https://kanand003.github.io/Website/projects/brick/</link>
+      <link>http://localhost:1313/Website/projects/brick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/projects/brick/</guid>
-      <description>Introduction Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result.&#xA;Project Preview Absolute path with Website: Absolute path without Website: Relative path: Direct URL: GitHub Repository Check out the code: BrickBreaker on GitHub</description>
+      <guid>http://localhost:1313/Website/projects/brick/</guid>
+      <description>Introduction Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result.&#xA;Project Preview GitHub Repository Check out the code: BrickBreaker on GitHub</description>
     </item>
     <item>
       <title>Lily Game Engine</title>
-      <link>https://kanand003.github.io/Website/projects/lily/</link>
+      <link>http://localhost:1313/Website/projects/lily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/projects/lily/</guid>
+      <guid>http://localhost:1313/Website/projects/lily/</guid>
       <description>Introduction https://github.com/kanand003/Lily</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://kanand003.github.io/Website/projects/</link>
+      <link>http://localhost:1313/Website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/projects/</guid>
+      <guid>http://localhost:1313/Website/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>RayTracer</title>
-      <link>https://kanand003.github.io/Website/projects/raytracer/</link>
+      <link>http://localhost:1313/Website/projects/raytracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/projects/raytracer/</guid>
+      <guid>http://localhost:1313/Website/projects/raytracer/</guid>
       <description>A ray tracer summary</description>
     </item>
     <item>
       <title>Wordle</title>
-      <link>https://kanand003.github.io/Website/projects/wordle/</link>
+      <link>http://localhost:1313/Website/projects/wordle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/projects/wordle/</guid>
+      <guid>http://localhost:1313/Website/projects/wordle/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Created a Desktop Version of wordle. Used SFML framework to help build the game. This took a period of 2 months to develop.&#xA;https://github.com/kanand003/WordleClone</description>
     </item>
   </channel>

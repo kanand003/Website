@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Anand Kumar</title>
+    <link>http://localhost:1313/Website/tags/programming/</link>
+    <description>Recent content in Programming on Anand Kumar</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/Website/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSON Parser Implementation</title>
+      <link>http://localhost:1313/Website/projects/json_parser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Website/projects/json_parser/</guid>
+      <description>Project Overview This project implements a JSON parser in C# that transforms JSON text into usable data structures and vice versa. The implementation includes a lexer for tokenization, a parser for syntactic analysis, and a serializer for converting objects back to JSON text.&#xA;View on GitHub&#xA;Key Features Lexical analysis with comprehensive token handling Recursive descent parsing Support for all JSON data types Robust error handling Clean, maintainable code structure Implementation Details Basic Usage string json = &amp;#34;{ \&amp;#34;name\&amp;#34;: \&amp;#34;John\&amp;#34;, \&amp;#34;age\&amp;#34;: 30, \&amp;#34;isStudent\&amp;#34;: false }&amp;#34;; // Tokenize var lexer = new JsonLexer(json); var tokens = lexer.</description>
+    </item>
+  </channel>
+</rss>

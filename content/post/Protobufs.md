@@ -1,6 +1,6 @@
 ---
-title: "Ideas"
-date: 2025-02-08T21:33:01+05:30
+title: "Protobufs"
+date: 2025-02-20T20:44:44+05:30
 draft: true
 tags: []
 author: "Me"
@@ -25,35 +25,6 @@ UseHugoToc: true
 ## Introduction
 
 [Brief introduction to the topic]
-
-Just a place to list down any Ideas of What to write
-
-Advice on How to Profile and Optimize a game in Unity
-    Write about the techniques, draw calls, tools explain everything with images and resources
-
-My experience with Running or Tryst with Running
-
-Delta Compression or Data Compression Techniques in Game Dev
-    Talk about the use in Game Dev
-    Talk about the paper you read as well and attach the link
-
-State Pattern
-Observer Pattern
-Event Bus Pattern
-Command Pattern
-Factory Pattern
-MVC Pattern
-
-Arrays vs Native Arrays
-
-Intro to DOTS and DOD and Burst and the rest
-
-Protobufs
-
-Object Pooling
-
-Interfaces for Clean Code
-
 
 ## Main Content
 
