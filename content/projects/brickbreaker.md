@@ -9,6 +9,10 @@ summary: ""
 tags: []
 ShowReadingTime: true
 ShowWordCount: true
+ShowCodeCopyButtons: true
+showtoc: true
+tocopen: false
+ShowPostNavLinks : true
 ---
 
 ## Introduction
@@ -26,6 +30,8 @@ Developed a 2D Brick Breaker game using the OpenGL Framework. This classic arcad
 </div>
 
 ## Features
+
+{{< youtube 0RKpf3rK57I >}}
 
 ### Core Gameplay
 - Responsive paddle control using keyboard input
