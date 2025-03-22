@@ -6,7 +6,7 @@
     <description>Recent content on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 22:25:12 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON Parser Implementation</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/json_parser/</guid>
       <description>Project Overview This project implements a JSON parser in C# that transforms JSON text into usable data structures and vice versa. The implementation includes a lexer for tokenization, a parser for syntactic analysis, and a serializer for converting objects back to JSON text.&#xA;View on GitHub&#xA;Key Features Lexical analysis with comprehensive token handling Recursive descent parsing Support for all JSON data types Robust error handling Clean, maintainable code structure Implementation Details Basic Usage string json = &amp;#34;{ \&amp;#34;name\&amp;#34;: \&amp;#34;John\&amp;#34;, \&amp;#34;age\&amp;#34;: 30, \&amp;#34;isStudent\&amp;#34;: false }&amp;#34;; // Tokenize var lexer = new JsonLexer(json); var tokens = lexer.</description>
+    </item>
+    <item>
+      <title>URL Shortener Service using Go</title>
+      <link>http://localhost:1313/Website/projects/URL_Shortener/</link>
+      <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/projects/URL_Shortener/</guid>
+      <description>Lightweight URL shortener with in-memory storage and fast redirection</description>
     </item>
     <item>
       <title>Structs_VS_Classes</title>
@@ -51,11 +58,11 @@
       <description>Singleton Pattern in Unity 1. Introductory Overview Pattern Name: Singleton Pattern One-Sentence Summary: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity. 2. Problem Context Practical Scenario: In many games, you need a centralized manager for handling game states, audio, or settings. For example, a GameManager that persists across scenes to track player progress and game state.</description>
     </item>
     <item>
-      <title>Tower</title>
+      <title>Tower Defense Game</title>
       <link>http://localhost:1313/Website/projects/tower/</link>
       <pubDate>Tue, 01 Aug 2023 22:37:32 +0530</pubDate>
       <guid>http://localhost:1313/Website/projects/tower/</guid>
-      <description>Introduction Implemented a simple prototype of a Tower Defense Game. Used Pathfinding Algorithms to create the enemy movement&#xA;https://github.com/kanand003/Tower</description>
+      <description>Introduction A Tower Defense game prototype implemented in Unity, featuring pathfinding algorithms for enemy movement and strategic tower placement mechanics. The game demonstrates core tower defense gameplay elements while showcasing efficient pathfinding implementation.&#xA;Features Enemy Pathfinding Implemented A* pathfinding algorithm for intelligent enemy movement Dynamic path recalculation when towers block paths Efficient path caching to optimize performance Tower Mechanics Multiple tower types with different attack patterns Strategic tower placement affecting enemy paths Tower upgrade system with enhanced capabilities Wave System Progressive difficulty scaling Dynamic enemy spawning patterns Wave completion rewards Technical Implementation Pathfinding Algorithm public class PathFinder : MonoBehaviour { private Grid grid; private List&amp;lt;Node&amp;gt; openSet; private HashSet&amp;lt;Node&amp;gt; closedSet; public List&amp;lt;Node&amp;gt; FindPath(Vector3 startPos, Vector3 targetPos) { Node startNode = grid.</description>
     </item>
     <item>
       <title>About Me</title>
@@ -69,14 +76,14 @@
       <link>http://localhost:1313/Website/projects/brick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/brick/</guid>
-      <description>Introduction Developed A 2D Brick Breaker using OpenGL Framework. This was my first project with OpenGL api and was quite pleased with the final result.&#xA;Project Preview GitHub Repository Check out the code: BrickBreaker on GitHub</description>
+      <description>Introduction Developed a 2D Brick Breaker game using the OpenGL Framework. This classic arcade-style game features smooth paddle movement, dynamic ball physics, and destructible bricks. The project demonstrates practical implementation of game physics, collision detection, and OpenGL rendering techniques.&#xA;Project Preview Features Core Gameplay Responsive paddle control using keyboard input Dynamic ball physics with realistic bouncing behavior Multiple brick types with different properties Score tracking and level progression Lives system with game over state Graphics OpenGL-based rendering pipeline Smooth animations and transitions Particle effects for brick destruction Dynamic lighting effects Technical Features Efficient collision detection system Frame-independent physics calculations Resource management for textures and sounds Game state management system Implementation Details Game Architecture The game follows a component-based architecture with these main systems:</description>
     </item>
     <item>
       <title>Lily Game Engine</title>
       <link>http://localhost:1313/Website/projects/lily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/lily/</guid>
-      <description>Introduction https://github.com/kanand003/Lily</description>
+      <description>Introduction Lily is a custom game engine built from scratch using C++ and OpenGL. The engine features a modular architecture with core systems for rendering, physics, audio, and scripting. This project demonstrates modern game engine architecture and real-time rendering techniques.&#xA;Core Features Entity Component System (ECS) architecture OpenGL-based rendering system Custom physics engine Audio system Scene management Resource management Event system Implementation Details Core Engine Architecture class LilyEngine { public: static LilyEngine&amp;amp; Get() { static LilyEngine instance; return instance; } void Init(); void Run(); void Shutdown(); Window&amp;amp; GetWindow() { return *m_Window; } Renderer&amp;amp; GetRenderer() { return *m_Renderer; } SceneManager&amp;amp; GetSceneManager() { return *m_SceneManager; } private: LilyEngine() = default; std::unique_ptr&amp;lt;Window&amp;gt; m_Window; std::unique_ptr&amp;lt;Renderer&amp;gt; m_Renderer; std::unique_ptr&amp;lt;SceneManager&amp;gt; m_SceneManager; std::unique_ptr&amp;lt;ResourceManager&amp;gt; m_ResourceManager; }; Entity Component System class Entity { public: Entity() = default; Entity(const Entity&amp;amp; other) = default; template&amp;lt;typename T, typename.</description>
     </item>
     <item>
       <title>Projects</title>
@@ -86,18 +93,18 @@
       <description></description>
     </item>
     <item>
-      <title>RayTracer</title>
+      <title>RayTracer in One Weekend</title>
       <link>http://localhost:1313/Website/projects/raytracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/raytracer/</guid>
-      <description>A ray tracer summary</description>
+      <description>Introduction Made a ray tracer over a weekend. Was quite happy with the final results.&#xA;Project Preview Implementation Details Core Ray Tracing Logic class ray { public: ray() {} ray(const vec3&amp;amp; origin, const vec3&amp;amp; direction) : orig(origin), dir(direction) {} vec3 origin() const { return orig; } vec3 direction() const { return dir; } vec3 point_at_parameter(float t) const { return orig + t*dir; } vec3 orig; vec3 dir; }; vec3 color(const ray&amp;amp; r, hitable *world, int depth) { hit_record rec; if (world-&amp;gt;hit(r, 0.</description>
     </item>
     <item>
       <title>Wordle</title>
       <link>http://localhost:1313/Website/projects/wordle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Website/projects/wordle/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Created a Desktop Version of wordle. Used SFML framework to help build the game. This took a period of 2 months to develop.&#xA;https://github.com/kanand003/WordleClone</description>
+      <description>Introduction A desktop implementation of the popular word game Wordle, built using C++ and SFML framework. The game features a clean user interface, word validation, and visual feedback similar to the original web version.&#xA;Features Daily word challenges Keyboard input handling Real-time visual feedback Word validation system Score tracking Animated tile reveals Implementation Details Game Core class WordleGame { public: WordleGame(); void processInput(char letter); void checkWord(); bool isGameOver() const; private: std::string targetWord; std::vector&amp;lt;std::string&amp;gt; attempts; int currentRow; int currentCol; bool gameWon; void loadWordList(); bool isValidWord(const std::string&amp;amp; word); std::vector&amp;lt;LetterState&amp;gt; evaluateGuess(const std::string&amp;amp; guess); }; UI System class GameUI { public: GameUI(sf::RenderWindow&amp;amp; window); void draw(); void updateTile(int row, int col, char letter, TileState state); void updateKeyboard(char key, KeyState state); private: sf::RenderWindow&amp;amp; window; std::array&amp;lt;std::array&amp;lt;Tile, 5&amp;gt;, 6&amp;gt; tiles; std::map&amp;lt;char, Key&amp;gt; keyboard; void initializeTiles(); void initializeKeyboard(); void animateTileReveal(int row); }; class Tile { public: void setLetter(char letter); void setState(TileState state); void animate(); void draw(sf::RenderWindow&amp;amp; window); private: sf::RectangleShape background; sf::Text text; TileState state; float animationProgress; }; Word Validation class WordValidator { public: WordValidator(); bool isValid(const std::string&amp;amp; word); std::string getRandomWord(); private: std::unordered_set&amp;lt;std::string&amp;gt; wordList; std::vector&amp;lt;std::string&amp;gt; dailyWords; void loadWordList(const std::string&amp;amp; filename); void loadDailyWords(const std::string&amp;amp; filename); }; Technical Features Graphics Custom UI components Smooth animations Color-coded feedback Responsive keyboard display Game Logic Word validation against dictionary Letter position checking Multiple attempt tracking Win/lose state management Input System Keyboard input handling Virtual keyboard support Input validation Backspace and Enter key handling Development Challenges Word List Management</description>
     </item>
   </channel>
 </rss>

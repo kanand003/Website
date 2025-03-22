@@ -10,6 +10,24 @@
     <loc>http://localhost:1313/Website/post/</loc>
     <lastmod>2025-02-24T22:58:23+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Website/tags/go/</loc>
+    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/http/</loc>
+    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/regex/</loc>
+    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/</loc>
+    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/projects/URL_Shortener/</loc>
+    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Website/tags/web-development/</loc>
+    <lastmod>2024-09-02T22:25:12+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Website/tags/classes/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
@@ -17,9 +35,6 @@
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/post/structs_vs_classes/</loc>
-    <lastmod>2024-05-08T21:57:34+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Website/tags/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/Website/tags/lerping/</loc>
