@@ -6,8 +6,71 @@
     <description>Recent content in Posts on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 20:20:12 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draw Calls in Unity</title>
+      <link>http://localhost:1313/Website/post/drawcalls/</link>
+      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/drawcalls/</guid>
+      <description>Introduction A draw call in Unity refers to the process where the game engine sends a request to the GPU to render objects in the scene. It involves setting up the necessary state for rendering (e.g., material, shaders, textures, meshes) and issuing the command to render a particular object or group of objects. Each time an object requires a unique material, shader, or other rendering properties, a new draw call is made.</description>
+    </item>
+    <item>
+      <title>JSON Parsers: A Deep Dive</title>
+      <link>http://localhost:1313/Website/post/json_parser/</link>
+      <pubDate>Mon, 24 Feb 2025 22:58:23 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/json_parser/</guid>
+      <description>Introduction JSON (JavaScript Object Notation) has become the de facto standard for data exchange in modern web applications. A JSON parser is a crucial tool that transforms JSON text into usable data structures and vice versa. In this article, we&amp;rsquo;ll explore how JSON parsers work, their importance, and the challenges in implementing one.&#xA;What is JSON? JSON is a lightweight, text-based data interchange format that&amp;rsquo;s easy for humans to read and write, and easy for machines to parse and generate.</description>
+    </item>
+    <item>
+      <title>Protobufs</title>
+      <link>http://localhost:1313/Website/post/protobufs/</link>
+      <pubDate>Thu, 20 Feb 2025 20:44:44 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/protobufs/</guid>
+      <description>Introduction [Brief introduction to the topic]&#xA;Main Content [Your main content goes here]&#xA;Section 1 [Content for section 1]&#xA;Section 2 [Content for section 2]&#xA;Code Examples // Your code examples here Summary [Summarize the key points]&#xA;References [Reference 1] [Reference 2] </description>
+    </item>
+    <item>
+      <title>ObserverPattern</title>
+      <link>http://localhost:1313/Website/post/observerpattern/</link>
+      <pubDate>Mon, 17 Feb 2025 20:55:04 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/observerpattern/</guid>
+      <description>Introduction [Brief introduction to the topic]&#xA;Main Content [Your main content goes here]&#xA;Section 1 [Content for section 1]&#xA;Section 2 [Content for section 2]&#xA;Code Examples // Your code examples here Summary [Summarize the key points]&#xA;References [Reference 1] [Reference 2] </description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://localhost:1313/Website/post/ideas/</link>
+      <pubDate>Sat, 08 Feb 2025 21:33:01 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/ideas/</guid>
+      <description>Introduction [Brief introduction to the topic]&#xA;Just a place to list down any Ideas of What to write&#xA;Advice on How to Profile and Optimize a game in Unity Write about the techniques, draw calls, tools explain everything with images and resources&#xA;My experience with Running or Tryst with Running&#xA;Delta Compression or Data Compression Techniques in Game Dev Talk about the use in Game Dev Talk about the paper you read as well and attach the link</description>
+    </item>
+    <item>
+      <title>AI_BookNotes</title>
+      <link>http://localhost:1313/Website/post/ai_booknotes/</link>
+      <pubDate>Mon, 13 Jan 2025 22:58:58 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/ai_booknotes/</guid>
+      <description>Introduction [Brief introduction to the topic]&#xA;Main Content [Your main content goes here]&#xA;Section 1 [Content for section 1]&#xA;Section 2 [Content for section 2]&#xA;Code Examples // Your code examples here Summary [Summarize the key points]&#xA;References [Reference 1] [Reference 2] </description>
+    </item>
+    <item>
+      <title>Simple Entity Component System Implementation in C&#43;&#43;</title>
+      <link>http://localhost:1313/Website/post/ecs/</link>
+      <pubDate>Mon, 13 Jan 2025 22:54:51 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/ecs/</guid>
+      <description>Entity Component System (ECS) is a software architectural pattern commonly used in game development that follows composition over inheritance. In this post, we&amp;rsquo;ll implement a simple but functional ECS in C++.&#xA;What is ECS? ECS consists of three main parts:&#xA;Entities: Simple IDs that serve as containers for components Components: Pure data structures that hold state Systems: Logic that operates on entities with specific components Basic Implementation Let&amp;rsquo;s start with a simple implementation that demonstrates the core concepts.</description>
+    </item>
+    <item>
+      <title>FuzzySearch</title>
+      <link>http://localhost:1313/Website/post/fuzzysearch/</link>
+      <pubDate>Mon, 23 Sep 2024 21:08:32 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/fuzzysearch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>String Matching Algorithms</title>
+      <link>http://localhost:1313/Website/post/stringmatching/</link>
+      <pubDate>Mon, 23 Sep 2024 20:53:14 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/stringmatching/</guid>
+      <description>String Matching Algorithms String matching algorithms are fundamental in computer science and are used in various applications such as text search, DNA sequencing, and data mining. In this article, we will explore some of the most common string matching algorithms, their implementations, and their use cases.&#xA;Introduction String matching is a critical operation in many fields, including text processing, bioinformatics, and data mining. Efficient string matching algorithms can significantly improve the performance of applications that rely on searching and analyzing large volumes of text.</description>
+    </item>
     <item>
       <title>Structs_VS_Classes</title>
       <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
@@ -30,6 +93,13 @@
       <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
     </item>
     <item>
+      <title>Serialization</title>
+      <link>http://localhost:1313/Website/post/test/</link>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/test/</guid>
+      <description>Testing </description>
+    </item>
+    <item>
       <title>Caching</title>
       <link>http://localhost:1313/Website/post/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
@@ -42,6 +112,13 @@
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
       <guid>http://localhost:1313/Website/post/singleton/</guid>
       <description>Singleton Pattern in Unity 1. Introductory Overview Pattern Name: Singleton Pattern One-Sentence Summary: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity. 2. Problem Context Practical Scenario: In many games, you need a centralized manager for handling game states, audio, or settings. For example, a GameManager that persists across scenes to track player progress and game state.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>http://localhost:1313/Website/post/first-post/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/Website/post/first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;I&amp;rsquo;m going to start writing from today.</description>
     </item>
   </channel>
 </rss>

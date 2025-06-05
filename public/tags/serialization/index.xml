@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/Website/post/serialization/</guid>
       <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
     </item>
+    <item>
+      <title>Serialization</title>
+      <link>http://localhost:1313/Website/post/test/</link>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
+      <guid>http://localhost:1313/Website/post/test/</guid>
+      <description>Testing </description>
+    </item>
   </channel>
 </rss>
