@@ -1,3 +1,10 @@
+---
+title: "About Me"
+date: true
+draft: false
+url: "/about"
+---
+
 ## 👋 Introduction
 
 Hi, I'm **Anand Kumar** — a programmer passionate about creating systems that perform, scale, and engage.
