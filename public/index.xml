@@ -2,192 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anand Kumar</title>
-    <link>http://localhost:1313/Website/</link>
+    <link>https://kanand003.github.io/Website/</link>
     <description>Recent content on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Mar 2025 20:20:12 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kanand003.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON Parser Implementation</title>
-      <link>http://localhost:1313/Website/projects/json_parser/</link>
+      <link>https://kanand003.github.io/Website/projects/json_parser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/json_parser/</guid>
+      <guid>https://kanand003.github.io/Website/projects/json_parser/</guid>
       <description>Project Overview This project implements a JSON parser in C# that transforms JSON text into usable data structures and vice versa. The implementation includes a lexer for tokenization, a parser for syntactic analysis, and a serializer for converting objects back to JSON text.&#xA;View on GitHub&#xA;Key Features Lexical analysis with comprehensive token handling Recursive descent parsing Support for all JSON data types Robust error handling Clean, maintainable code structure Implementation Details Basic Usage string json = &amp;#34;{ \&amp;#34;name\&amp;#34;: \&amp;#34;John\&amp;#34;, \&amp;#34;age\&amp;#34;: 30, \&amp;#34;isStudent\&amp;#34;: false }&amp;#34;; // Tokenize var lexer = new JsonLexer(json); var tokens = lexer.</description>
     </item>
     <item>
       <title>Draw Calls in Unity</title>
-      <link>http://localhost:1313/Website/post/drawcalls/</link>
+      <link>https://kanand003.github.io/Website/post/drawcalls/</link>
       <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/drawcalls/</guid>
+      <guid>https://kanand003.github.io/Website/post/drawcalls/</guid>
       <description>Introduction A draw call in Unity refers to the process where the game engine sends a request to the GPU to render objects in the scene. It involves setting up the necessary state for rendering (e.g., material, shaders, textures, meshes) and issuing the command to render a particular object or group of objects. Each time an object requires a unique material, shader, or other rendering properties, a new draw call is made.</description>
     </item>
     <item>
-      <title>JSON Parsers: A Deep Dive</title>
-      <link>http://localhost:1313/Website/post/json_parser/</link>
-      <pubDate>Mon, 24 Feb 2025 22:58:23 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/json_parser/</guid>
-      <description>Introduction JSON (JavaScript Object Notation) has become the de facto standard for data exchange in modern web applications. A JSON parser is a crucial tool that transforms JSON text into usable data structures and vice versa. In this article, we&amp;rsquo;ll explore how JSON parsers work, their importance, and the challenges in implementing one.&#xA;What is JSON? JSON is a lightweight, text-based data interchange format that&amp;rsquo;s easy for humans to read and write, and easy for machines to parse and generate.</description>
-    </item>
-    <item>
-      <title>Protobufs</title>
-      <link>http://localhost:1313/Website/post/protobufs/</link>
-      <pubDate>Thu, 20 Feb 2025 20:44:44 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/protobufs/</guid>
-      <description>Introduction [Brief introduction to the topic]&#xA;Main Content [Your main content goes here]&#xA;Section 1 [Content for section 1]&#xA;Section 2 [Content for section 2]&#xA;Code Examples // Your code examples here Summary [Summarize the key points]&#xA;References [Reference 1] [Reference 2] </description>
-    </item>
-    <item>
-      <title>ObserverPattern</title>
-      <link>http://localhost:1313/Website/post/observerpattern/</link>
-      <pubDate>Mon, 17 Feb 2025 20:55:04 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/observerpattern/</guid>
-      <description>Introduction [Brief introduction to the topic]&#xA;Main Content [Your main content goes here]&#xA;Section 1 [Content for section 1]&#xA;Section 2 [Content for section 2]&#xA;Code Examples // Your code examples here Summary [Summarize the key points]&#xA;References [Reference 1] [Reference 2] </description>
-    </item>
-    <item>
-      <title>Ideas</title>
-      <link>http://localhost:1313/Website/post/ideas/</link>
-      <pubDate>Sat, 08 Feb 2025 21:33:01 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/ideas/</guid>
-      <description>Introduction [Brief introduction to the topic]&#xA;Just a place to list down any Ideas of What to write&#xA;Advice on How to Profile and Optimize a game in Unity Write about the techniques, draw calls, tools explain everything with images and resources&#xA;My experience with Running or Tryst with Running&#xA;Delta Compression or Data Compression Techniques in Game Dev Talk about the use in Game Dev Talk about the paper you read as well and attach the link</description>
-    </item>
-    <item>
-      <title>AI_BookNotes</title>
-      <link>http://localhost:1313/Website/post/ai_booknotes/</link>
-      <pubDate>Mon, 13 Jan 2025 22:58:58 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/ai_booknotes/</guid>
-      <description>Introduction [Brief introduction to the topic]&#xA;Main Content [Your main content goes here]&#xA;Section 1 [Content for section 1]&#xA;Section 2 [Content for section 2]&#xA;Code Examples // Your code examples here Summary [Summarize the key points]&#xA;References [Reference 1] [Reference 2] </description>
-    </item>
-    <item>
-      <title>Simple Entity Component System Implementation in C&#43;&#43;</title>
-      <link>http://localhost:1313/Website/post/ecs/</link>
-      <pubDate>Mon, 13 Jan 2025 22:54:51 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/ecs/</guid>
-      <description>Entity Component System (ECS) is a software architectural pattern commonly used in game development that follows composition over inheritance. In this post, we&amp;rsquo;ll implement a simple but functional ECS in C++.&#xA;What is ECS? ECS consists of three main parts:&#xA;Entities: Simple IDs that serve as containers for components Components: Pure data structures that hold state Systems: Logic that operates on entities with specific components Basic Implementation Let&amp;rsquo;s start with a simple implementation that demonstrates the core concepts.</description>
-    </item>
-    <item>
-      <title>FuzzySearch</title>
-      <link>http://localhost:1313/Website/post/fuzzysearch/</link>
-      <pubDate>Mon, 23 Sep 2024 21:08:32 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/fuzzysearch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>String Matching Algorithms</title>
-      <link>http://localhost:1313/Website/post/stringmatching/</link>
-      <pubDate>Mon, 23 Sep 2024 20:53:14 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/stringmatching/</guid>
-      <description>String Matching Algorithms String matching algorithms are fundamental in computer science and are used in various applications such as text search, DNA sequencing, and data mining. In this article, we will explore some of the most common string matching algorithms, their implementations, and their use cases.&#xA;Introduction String matching is a critical operation in many fields, including text processing, bioinformatics, and data mining. Efficient string matching algorithms can significantly improve the performance of applications that rely on searching and analyzing large volumes of text.</description>
-    </item>
-    <item>
       <title>URL Shortener Service using Go</title>
-      <link>http://localhost:1313/Website/projects/URL_Shortener/</link>
+      <link>https://kanand003.github.io/Website/projects/URL_Shortener/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>http://localhost:1313/Website/projects/URL_Shortener/</guid>
+      <guid>https://kanand003.github.io/Website/projects/URL_Shortener/</guid>
       <description>Lightweight URL shortener with in-memory storage and fast redirection</description>
     </item>
     <item>
-      <title>FileCompression</title>
-      <link>http://localhost:1313/Website/projects/filecompression/</link>
-      <pubDate>Mon, 02 Sep 2024 22:16:24 +0530</pubDate>
-      <guid>http://localhost:1313/Website/projects/filecompression/</guid>
-      <description>File compression is a technique used to reduce the size of a file by encoding its data in a more efficient way. This is done to save storage space and improve transmission speed. There are various compression algorithms available, such as ZIP, GZIP, and BZIP2, which can be used to compress different types of files. Compressed files need to be decompressed before they can be used again.</description>
-    </item>
-    <item>
       <title>Structs_VS_Classes</title>
-      <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
+      <link>https://kanand003.github.io/Website/post/structs_vs_classes/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/structs_vs_classes/</guid>
+      <guid>https://kanand003.github.io/Website/post/structs_vs_classes/</guid>
       <description>What are Structs? Structs are similar to classes in that they represent data structures that can contain data members and function members. Structs are best used when you need to represent simple data types, such as integers, strings, or other basic data types.&#xA;A variable of a struct type directly contains the data of the struct, whereas a variable of a class type contains a reference to the data, the latter known as an object.</description>
     </item>
     <item>
       <title>Lerping</title>
-      <link>http://localhost:1313/Website/post/lerping/</link>
+      <link>https://kanand003.github.io/Website/post/lerping/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/lerping/</guid>
+      <guid>https://kanand003.github.io/Website/post/lerping/</guid>
       <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
     </item>
     <item>
       <title>Serialization</title>
-      <link>http://localhost:1313/Website/post/serialization/</link>
+      <link>https://kanand003.github.io/Website/post/serialization/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/serialization/</guid>
+      <guid>https://kanand003.github.io/Website/post/serialization/</guid>
       <description>What is Serialization? Serialization is the process of converting a data object which is a combination of code and data into a series of bytes which is saved as transmissible object. The data can then be transferred to another destination.&#xA;Why do we need to Serialize? Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data.</description>
     </item>
     <item>
-      <title>Serialization</title>
-      <link>http://localhost:1313/Website/post/test/</link>
-      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/test/</guid>
-      <description>Testing </description>
-    </item>
-    <item>
       <title>Caching</title>
-      <link>http://localhost:1313/Website/post/caching/</link>
+      <link>https://kanand003.github.io/Website/post/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/caching/</guid>
+      <guid>https://kanand003.github.io/Website/post/caching/</guid>
       <description>Caching What is Caching? A cache is a high speed data storage which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&#xA;How does Caching work? The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component.</description>
     </item>
     <item>
       <title>Singleton</title>
-      <link>http://localhost:1313/Website/post/singleton/</link>
+      <link>https://kanand003.github.io/Website/post/singleton/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/singleton/</guid>
+      <guid>https://kanand003.github.io/Website/post/singleton/</guid>
       <description>Singleton Pattern in Unity 1. Introductory Overview Pattern Name: Singleton Pattern One-Sentence Summary: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity. 2. Problem Context Practical Scenario: In many games, you need a centralized manager for handling game states, audio, or settings. For example, a GameManager that persists across scenes to track player progress and game state.</description>
     </item>
     <item>
       <title>Tower Defense Game</title>
-      <link>http://localhost:1313/Website/projects/tower/</link>
+      <link>https://kanand003.github.io/Website/projects/tower/</link>
       <pubDate>Tue, 01 Aug 2023 22:37:32 +0530</pubDate>
-      <guid>http://localhost:1313/Website/projects/tower/</guid>
+      <guid>https://kanand003.github.io/Website/projects/tower/</guid>
       <description>Introduction A Tower Defense game prototype implemented in Unity, featuring pathfinding algorithms for enemy movement and strategic tower placement mechanics. The game demonstrates core tower defense gameplay elements while showcasing efficient pathfinding implementation.&#xA;Features Enemy Pathfinding Implemented A* pathfinding algorithm for intelligent enemy movement Dynamic path recalculation when towers block paths Efficient path caching to optimize performance Tower Mechanics Multiple tower types with different attack patterns Strategic tower placement affecting enemy paths Tower upgrade system with enhanced capabilities Wave System Progressive difficulty scaling Dynamic enemy spawning patterns Wave completion rewards Technical Implementation Pathfinding Algorithm public class PathFinder : MonoBehaviour { private Grid grid; private List&amp;lt;Node&amp;gt; openSet; private HashSet&amp;lt;Node&amp;gt; closedSet; public List&amp;lt;Node&amp;gt; FindPath(Vector3 startPos, Vector3 targetPos) { Node startNode = grid.</description>
     </item>
     <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/Website/post/first-post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/Website/post/first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;I&amp;rsquo;m going to start writing from today.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/Website/about/</link>
+      <title>About Me</title>
+      <link>https://kanand003.github.io/Website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/about/</guid>
+      <guid>https://kanand003.github.io/Website/about/</guid>
       <description>👋 Introduction Hi, I&amp;rsquo;m Anand Kumar — a programmer passionate about creating systems that perform, scale, and engage.&#xA;My journey began in game development, where I focused on gameplay mechanics, AI, multiplayer networking, UI systems, and engine-level optimization. Over the years, I’ve contributed to projects across Unity and Unreal Engine, developing tools to support creative teams and pushing real-time performance boundaries.&#xA;As my interests grew, I found myself diving deeper into backend engineering and systems programming.</description>
     </item>
     <item>
       <title>Brick Breaker Game</title>
-      <link>http://localhost:1313/Website/projects/brick/</link>
+      <link>https://kanand003.github.io/Website/projects/brick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/brick/</guid>
+      <guid>https://kanand003.github.io/Website/projects/brick/</guid>
       <description>Introduction Developed a 2D Brick Breaker game using the OpenGL Framework. This classic arcade-style game features smooth paddle movement, dynamic ball physics, and destructible bricks. The project demonstrates practical implementation of game physics, collision detection, and OpenGL rendering techniques.&#xA;Project Preview Features Core Gameplay Responsive paddle control using keyboard input Dynamic ball physics with realistic bouncing behavior Multiple brick types with different properties Score tracking and level progression Lives system with game over state Graphics OpenGL-based rendering pipeline Smooth animations and transitions Particle effects for brick destruction Dynamic lighting effects Technical Features Efficient collision detection system Frame-independent physics calculations Resource management for textures and sounds Game state management system Implementation Details Game Architecture The game follows a component-based architecture with these main systems:</description>
     </item>
     <item>
       <title>Lily Game Engine</title>
-      <link>http://localhost:1313/Website/projects/lily/</link>
+      <link>https://kanand003.github.io/Website/projects/lily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/lily/</guid>
+      <guid>https://kanand003.github.io/Website/projects/lily/</guid>
       <description>Introduction Lily is a custom game engine built from scratch using C++ and OpenGL. The engine features a modular architecture with core systems for rendering, physics, audio, and scripting. This project demonstrates modern game engine architecture and real-time rendering techniques.&#xA;Core Features Entity Component System (ECS) architecture OpenGL-based rendering system Custom physics engine Audio system Scene management Resource management Event system Implementation Details Core Engine Architecture class LilyEngine { public: static LilyEngine&amp;amp; Get() { static LilyEngine instance; return instance; } void Init(); void Run(); void Shutdown(); Window&amp;amp; GetWindow() { return *m_Window; } Renderer&amp;amp; GetRenderer() { return *m_Renderer; } SceneManager&amp;amp; GetSceneManager() { return *m_SceneManager; } private: LilyEngine() = default; std::unique_ptr&amp;lt;Window&amp;gt; m_Window; std::unique_ptr&amp;lt;Renderer&amp;gt; m_Renderer; std::unique_ptr&amp;lt;SceneManager&amp;gt; m_SceneManager; std::unique_ptr&amp;lt;ResourceManager&amp;gt; m_ResourceManager; }; Entity Component System class Entity { public: Entity() = default; Entity(const Entity&amp;amp; other) = default; template&amp;lt;typename T, typename.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/Website/projects/</link>
+      <link>https://kanand003.github.io/Website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/</guid>
+      <guid>https://kanand003.github.io/Website/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>RayTracer in One Weekend</title>
-      <link>http://localhost:1313/Website/projects/raytracer/</link>
+      <link>https://kanand003.github.io/Website/projects/raytracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/raytracer/</guid>
+      <guid>https://kanand003.github.io/Website/projects/raytracer/</guid>
       <description>Introduction Made a ray tracer over a weekend. Was quite happy with the final results.&#xA;Project Preview Implementation Details Core Ray Tracing Logic class ray { public: ray() {} ray(const vec3&amp;amp; origin, const vec3&amp;amp; direction) : orig(origin), dir(direction) {} vec3 origin() const { return orig; } vec3 direction() const { return dir; } vec3 point_at_parameter(float t) const { return orig + t*dir; } vec3 orig; vec3 dir; }; vec3 color(const ray&amp;amp; r, hitable *world, int depth) { hit_record rec; if (world-&amp;gt;hit(r, 0.</description>
     </item>
     <item>
       <title>Wordle</title>
-      <link>http://localhost:1313/Website/projects/wordle/</link>
+      <link>https://kanand003.github.io/Website/projects/wordle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/wordle/</guid>
+      <guid>https://kanand003.github.io/Website/projects/wordle/</guid>
       <description>Introduction A desktop implementation of the popular word game Wordle, built using C++ and SFML framework. The game features a clean user interface, word validation, and visual feedback similar to the original web version.&#xA;Features Daily word challenges Keyboard input handling Real-time visual feedback Word validation system Score tracking Animated tile reveals Implementation Details Game Core class WordleGame { public: WordleGame(); void processInput(char letter); void checkWord(); bool isGameOver() const; private: std::string targetWord; std::vector&amp;lt;std::string&amp;gt; attempts; int currentRow; int currentCol; bool gameWon; void loadWordList(); bool isValidWord(const std::string&amp;amp; word); std::vector&amp;lt;LetterState&amp;gt; evaluateGuess(const std::string&amp;amp; guess); }; UI System class GameUI { public: GameUI(sf::RenderWindow&amp;amp; window); void draw(); void updateTile(int row, int col, char letter, TileState state); void updateKeyboard(char key, KeyState state); private: sf::RenderWindow&amp;amp; window; std::array&amp;lt;std::array&amp;lt;Tile, 5&amp;gt;, 6&amp;gt; tiles; std::map&amp;lt;char, Key&amp;gt; keyboard; void initializeTiles(); void initializeKeyboard(); void animateTileReveal(int row); }; class Tile { public: void setLetter(char letter); void setState(TileState state); void animate(); void draw(sf::RenderWindow&amp;amp; window); private: sf::RectangleShape background; sf::Text text; TileState state; float animationProgress; }; Word Validation class WordValidator { public: WordValidator(); bool isValid(const std::string&amp;amp; word); std::string getRandomWord(); private: std::unordered_set&amp;lt;std::string&amp;gt; wordList; std::vector&amp;lt;std::string&amp;gt; dailyWords; void loadWordList(const std::string&amp;amp; filename); void loadDailyWords(const std::string&amp;amp; filename); }; Technical Features Graphics Custom UI components Smooth animations Color-coded feedback Responsive keyboard display Game Logic Word validation against dictionary Letter position checking Multiple attempt tracking Win/lose state management Input System Keyboard input handling Virtual keyboard support Input validation Backspace and Enter key handling Development Challenges Word List Management</description>
     </item>
   </channel>

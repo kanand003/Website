@@ -2,25 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parsing on Anand Kumar</title>
-    <link>http://localhost:1313/Website/tags/parsing/</link>
+    <link>https://kanand003.github.io/Website/tags/parsing/</link>
     <description>Recent content in Parsing on Anand Kumar</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Feb 2025 22:58:23 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website/tags/parsing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kanand003.github.io/Website/tags/parsing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON Parser Implementation</title>
-      <link>http://localhost:1313/Website/projects/json_parser/</link>
+      <link>https://kanand003.github.io/Website/projects/json_parser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Website/projects/json_parser/</guid>
+      <guid>https://kanand003.github.io/Website/projects/json_parser/</guid>
       <description>Project Overview This project implements a JSON parser in C# that transforms JSON text into usable data structures and vice versa. The implementation includes a lexer for tokenization, a parser for syntactic analysis, and a serializer for converting objects back to JSON text.&#xA;View on GitHub&#xA;Key Features Lexical analysis with comprehensive token handling Recursive descent parsing Support for all JSON data types Robust error handling Clean, maintainable code structure Implementation Details Basic Usage string json = &amp;#34;{ \&amp;#34;name\&amp;#34;: \&amp;#34;John\&amp;#34;, \&amp;#34;age\&amp;#34;: 30, \&amp;#34;isStudent\&amp;#34;: false }&amp;#34;; // Tokenize var lexer = new JsonLexer(json); var tokens = lexer.</description>
-    </item>
-    <item>
-      <title>JSON Parsers: A Deep Dive</title>
-      <link>http://localhost:1313/Website/post/json_parser/</link>
-      <pubDate>Mon, 24 Feb 2025 22:58:23 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/json_parser/</guid>
-      <description>Introduction JSON (JavaScript Object Notation) has become the de facto standard for data exchange in modern web applications. A JSON parser is a crucial tool that transforms JSON text into usable data structures and vice versa. In this article, we&amp;rsquo;ll explore how JSON parsers work, their importance, and the challenges in implementing one.&#xA;What is JSON? JSON is a lightweight, text-based data interchange format that&amp;rsquo;s easy for humans to read and write, and easy for machines to parse and generate.</description>
     </item>
   </channel>
 </rss>
