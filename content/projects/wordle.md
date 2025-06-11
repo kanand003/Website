@@ -1,6 +1,6 @@
 ---
 title: "Wordle"
-date: true
+date: 2025-06-11
 draft: false
 url: "/projects/wordle"
 description: "A clone of Wordle made in C++"

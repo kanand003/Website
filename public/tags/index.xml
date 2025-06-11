@@ -4,49 +4,98 @@
     <title>Tags on Anand Kumar</title>
     <link>http://localhost:1313/Website/tags/</link>
     <description>Recent content in Tags on Anand Kumar</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 20:20:12 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graphics</title>
+      <link>http://localhost:1313/Website/tags/graphics/</link>
+      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/graphics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/Website/tags/performance/</link>
+      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/Website/tags/unity/</link>
+      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/Website/tags/go/</link>
+      <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTTP</title>
+      <link>http://localhost:1313/Website/tags/http/</link>
+      <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regex</title>
+      <link>http://localhost:1313/Website/tags/regex/</link>
+      <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/regex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/Website/tags/web-development/</link>
+      <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
+      <guid>http://localhost:1313/Website/tags/web-development/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Classes</title>
       <link>http://localhost:1313/Website/tags/classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
       <guid>http://localhost:1313/Website/tags/classes/</guid>
       <description></description>
     </item>
     <item>
       <title>Structs</title>
       <link>http://localhost:1313/Website/tags/structs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
       <guid>http://localhost:1313/Website/tags/structs/</guid>
       <description></description>
     </item>
     <item>
       <title>Lerping</title>
       <link>http://localhost:1313/Website/tags/lerping/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
       <guid>http://localhost:1313/Website/tags/lerping/</guid>
       <description></description>
     </item>
     <item>
       <title>Serialization</title>
       <link>http://localhost:1313/Website/tags/serialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
       <guid>http://localhost:1313/Website/tags/serialization/</guid>
       <description></description>
     </item>
     <item>
       <title>Caching</title>
       <link>http://localhost:1313/Website/tags/caching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
       <guid>http://localhost:1313/Website/tags/caching/</guid>
       <description></description>
     </item>
     <item>
       <title>Singleton</title>
       <link>http://localhost:1313/Website/tags/singleton/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
       <guid>http://localhost:1313/Website/tags/singleton/</guid>
       <description></description>
     </item>

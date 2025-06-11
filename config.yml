@@ -2,7 +2,8 @@ baseURL: "https://kanand003.github.io/Website"
 defaultContentLanguage: en
 languageCode: en
 title: Anand Kumar
-paginate: 5
+pagination:
+  papersize: 10
 theme: PaperMod
 enableEmoji: true
 

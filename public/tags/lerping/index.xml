@@ -4,7 +4,7 @@
     <title>Lerping on Anand Kumar</title>
     <link>http://localhost:1313/Website/tags/lerping/</link>
     <description>Recent content in Lerping on Anand Kumar</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 May 2024 22:52:30 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/Website/tags/lerping/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/Website/post/lerping/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
       <guid>http://localhost:1313/Website/post/lerping/</guid>
-      <description>What is Lerping? Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&#xA;Most commonly it’s used for moving or changing values over a period of time.&#xA;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.</description>
+      <description>&lt;h2 id=&#34;what-is-lerping&#34;&gt;What is Lerping?&lt;/h2&gt;&#xA;&lt;p&gt;Lerp, or Linear Interpolation, is a mathematical function in Unity that returns a value between two others at a point on a linear scale.&lt;/p&gt;&#xA;&lt;p&gt;Most commonly it’s used for moving or changing values over a period of time.&lt;/p&gt;&#xA;&lt;p&gt;So when you are doing &amp;ldquo;Linear Interpolation&amp;rdquo; you are Linearly inserting a new point between 2 points. Linear Interpolation is inserting a new point between 2 points on a straight line.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

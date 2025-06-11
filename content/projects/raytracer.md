@@ -1,6 +1,6 @@
 ---
 title: "RayTracer in One Weekend"
-date: true
+date: 2025-06-11
 draft: false
 url: "/projects/raytracer"
 image: "/Website/images/Image_Final.JPG"

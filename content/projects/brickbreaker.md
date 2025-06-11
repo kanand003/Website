@@ -1,6 +1,6 @@
 ---
 title: "Brick Breaker Game"
-date: true
+date: 2025-06-11
 draft: false
 url: "/projects/brick"
 image: "/Website/images/Capture2.JPG"
