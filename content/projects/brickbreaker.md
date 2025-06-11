@@ -31,7 +31,7 @@ Developed a 2D Brick Breaker game using the OpenGL Framework. This classic arcad
 
 ## Features
 
-{{< youtube 0RKpf3rK57I >}}
+{{< youtube hji3VV7JGtdiwTI8 >}}
 
 ### Core Gameplay
 - Responsive paddle control using keyboard input
