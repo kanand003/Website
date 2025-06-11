@@ -5,16 +5,56 @@ draft: false
 url: "/about"
 ---
 
-## Introduction
+## 👋 Introduction
 
-Hi there I'm Anand Kumar, and I work as a Game Programmer.This website is a space where I can showcase my work, share my thoughts and ideas, and connect with others who share similar interests.
+Hi, I'm **Anand Kumar** — a programmer passionate about creating systems that perform, scale, and engage.
 
-I specialize in creating gameplay mechanics, AI, user interfaces, and multiplayer networking. With a deep understanding of game engine development, I build custom tools to streamline development and optimize performance. I also collaborate effectively with artists for graphics development to bring game worlds to life.
+My journey began in **game development**, where I focused on gameplay mechanics, AI, multiplayer networking, UI systems, and engine-level optimization. Over the years, I’ve contributed to projects across Unity and Unreal Engine, developing tools to support creative teams and pushing real-time performance boundaries.
 
-When I'm not at work you can usually find me exploring the great outdoors or playing sports. Additionally I'm a an avid gamer as well, always looking for new games to play. 
+As my interests grew, I found myself diving deeper into **backend engineering** and **systems programming**. I now enjoy working on backend services, distributed architectures, APIs, databases, and infrastructure. Whether it's crafting a compelling in-game system or a scalable backend service, I bring the same mindset: write clean, efficient code that serves people and scales reliably.
 
-If you're a fellow game developer, a potential employer, or just someone who loves gaming, I invite you to take a look at my portfolio and see what I'm all about. Thanks for stopping by!
-  
->If you would like to get in contact with me, you can reach out to me by Email.
+I believe that understanding both low-level systems and high-level user experiences makes me a better developer—and a better teammate.
+
+---
+
+## 🛠️ Skills
+
+### 🎮 Game Development
+- **Engines**: Unity (C#), Unreal Engine (C++)
+- **Core Expertise**: Gameplay Mechanics, AI, Multiplayer Networking, UI Systems
+- **Tools**: Custom Editors, Debuggers, Scripting Systems, Profiling & Optimization
+
+### 🖧 Backend Engineering
+- **Languages**: Go, C++, C#, Python
+- **Databases**: PostgreSQL, Redis
+- **Networking**: REST APIs, WebSockets, Protocol Buffers
+- **Infrastructure**: Docker, CI/CD Pipelines, Microservices Architecture
+
+### 🧰 Developer Tools & Platforms
+- Git, GitHub, Visual Studio, Rider, VS Code  
+- Postman, Figma, Notion
+
+### 🚀 Currently Exploring
+- AWS & Cloud Deployment
+- Kubernetes & Container Orchestration
+- Systems-Level Programming
+- Advanced Networking Protocols (Game and Web)
+
+---
+
+## 🧗 Personal Interests
+
+When I'm not working, you’ll find me staying active and curious. I enjoy:
+
+- 🏃‍♂️ **Running** — Long-distance running, marathons, and trail runs
+- 🏞️ **Hiking** — Exploring nature and mountain trails
+- ⚽ **Football** — Playing pickup games and following global tournaments
+- 📖 **Reading** — Books from genres in Fiction, Fantasy and Thrillers
+- 🎮 **Gaming** — Trying out new games and mostly CS & FIFA
+
+---
+
+📬 **Want to connect?**  
+Feel free to [email me](mailto:anand_kumar1999@hotmail.com) or explore my [GitHub](https://github.com/kanand003) to see what I’m working on.
 
 

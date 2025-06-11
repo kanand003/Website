@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on Anand Kumar</title>
-    <link>http://localhost:1313/Website/tags/web-development/</link>
+    <link>https://kanand003.github.io/Website/tags/web-development/</link>
     <description>Recent content in Web Development on Anand Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Sep 2024 22:25:12 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kanand003.github.io/Website/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>URL Shortener Service using Go</title>
-      <link>http://localhost:1313/Website/projects/URL_Shortener/</link>
+      <link>https://kanand003.github.io/Website/projects/URL_Shortener/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>http://localhost:1313/Website/projects/URL_Shortener/</guid>
+      <guid>https://kanand003.github.io/Website/projects/URL_Shortener/</guid>
       <description>Lightweight URL shortener with in-memory storage and fast redirection</description>
     </item>
   </channel>

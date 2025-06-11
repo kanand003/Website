@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Structs on Anand Kumar</title>
-    <link>http://localhost:1313/Website/tags/structs/</link>
+    <link>https://kanand003.github.io/Website/tags/structs/</link>
     <description>Recent content in Structs on Anand Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 21:57:34 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website/tags/structs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kanand003.github.io/Website/tags/structs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structs_VS_Classes</title>
-      <link>http://localhost:1313/Website/post/structs_vs_classes/</link>
+      <link>https://kanand003.github.io/Website/post/structs_vs_classes/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/structs_vs_classes/</guid>
+      <guid>https://kanand003.github.io/Website/post/structs_vs_classes/</guid>
       <description>&lt;h2 id=&#34;what-are-structs&#34;&gt;What are Structs?&lt;/h2&gt;&#xA;&lt;p&gt;Structs are similar to classes in that they represent data structures that can contain data members and function members. Structs are best used when you need to represent simple data types, such as integers, strings, or other basic data types.&lt;/p&gt;&#xA;&lt;p&gt;A variable of a struct type directly contains the data of the struct, whereas a variable of a class type contains a reference to the data, the latter known as an object.&lt;/p&gt;</description>
     </item>
   </channel>

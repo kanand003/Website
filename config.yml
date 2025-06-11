@@ -64,7 +64,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Anand Kumar
-    subtitle: "Game Programmer"
+    subtitle: "Software Engineer | Game Programmer"
     buttons:
       - identifier: about
         name: About Me

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caching on Anand Kumar</title>
-    <link>http://localhost:1313/Website/tags/caching/</link>
+    <link>https://kanand003.github.io/Website/tags/caching/</link>
     <description>Recent content in Caching on Anand Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 Apr 2024 22:03:31 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website/tags/caching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kanand003.github.io/Website/tags/caching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caching</title>
-      <link>http://localhost:1313/Website/post/caching/</link>
+      <link>https://kanand003.github.io/Website/post/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>http://localhost:1313/Website/post/caching/</guid>
+      <guid>https://kanand003.github.io/Website/post/caching/</guid>
       <description>&lt;h1 id=&#34;caching&#34;&gt;Caching&lt;/h1&gt;&#xA;&lt;h3 id=&#34;what-is-caching&#34;&gt;What is Caching?&lt;/h3&gt;&#xA;&lt;p&gt;A cache is a high speed data storage which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-does-caching-work&#34;&gt;How does Caching work?&lt;/h3&gt;&#xA;&lt;p&gt;The data in a cache is generally stored in fast access hardware such as RAM (Random-access memory) and may also be used in correlation with a software component. A cache&amp;rsquo;s primary purpose is to increase data retrieval performance by reducing the need to access the underlying slower storage layer.&lt;/p&gt;</description>
     </item>
   </channel>
