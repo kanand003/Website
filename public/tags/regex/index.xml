@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regex on Anand Kumar</title>
-    <link>/tags/regex/</link>
+    <link>//localhost:1313/tags/regex/</link>
     <description>Recent content in Regex on Anand Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Sep 2024 22:25:12 +0530</lastBuildDate>
-    <atom:link href="/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/regex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>URL Shortener Service using Go</title>
-      <link>/projects/URL_Shortener/</link>
+      <link>//localhost:1313/projects/URL_Shortener/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>/projects/URL_Shortener/</guid>
+      <guid>//localhost:1313/projects/URL_Shortener/</guid>
       <description>Lightweight URL shortener with in-memory storage and fast redirection</description>
     </item>
   </channel>

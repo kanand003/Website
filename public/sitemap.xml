@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/projects/json_parser/</loc>
+    <loc>//localhost:1313/projects/json_parser/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-06-11T23:38:05+05:30</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/brick/</loc>
+    <loc>//localhost:1313/projects/brick/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/lily/</loc>
+    <loc>//localhost:1313/projects/lily/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/raytracer/</loc>
+    <loc>//localhost:1313/projects/raytracer/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/wordle/</loc>
+    <loc>//localhost:1313/projects/wordle/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/drawcalls/</loc>
+    <loc>//localhost:1313/post/drawcalls/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/graphics/</loc>
+    <loc>//localhost:1313/tags/graphics/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/performance/</loc>
+    <loc>//localhost:1313/tags/performance/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/unity/</loc>
+    <loc>//localhost:1313/tags/unity/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/go/</loc>
+    <loc>//localhost:1313/tags/go/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/http/</loc>
+    <loc>//localhost:1313/tags/http/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/regex/</loc>
+    <loc>//localhost:1313/tags/regex/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>/projects/URL_Shortener/</loc>
+    <loc>//localhost:1313/projects/URL_Shortener/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/web-development/</loc>
+    <loc>//localhost:1313/tags/web-development/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>/tags/classes/</loc>
+    <loc>//localhost:1313/tags/classes/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
-    <loc>/tags/structs/</loc>
+    <loc>//localhost:1313/tags/structs/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
-    <loc>/post/structs_vs_classes/</loc>
+    <loc>//localhost:1313/post/structs_vs_classes/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
-    <loc>/post/lerping/</loc>
+    <loc>//localhost:1313/post/lerping/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>/tags/lerping/</loc>
+    <loc>//localhost:1313/tags/lerping/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>/post/serialization/</loc>
+    <loc>//localhost:1313/post/serialization/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>/tags/serialization/</loc>
+    <loc>//localhost:1313/tags/serialization/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>/post/caching/</loc>
+    <loc>//localhost:1313/post/caching/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>/tags/caching/</loc>
+    <loc>//localhost:1313/tags/caching/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>/post/singleton/</loc>
+    <loc>//localhost:1313/post/singleton/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>/tags/singleton/</loc>
+    <loc>//localhost:1313/tags/singleton/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>/projects/tower/</loc>
+    <loc>//localhost:1313/projects/tower/</loc>
     <lastmod>2023-08-01T22:37:32+05:30</lastmod>
   </url><url>
-    <loc>/tags/c%23/</loc>
+    <loc>//localhost:1313/tags/c%23/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/tags/data-structures/</loc>
+    <loc>//localhost:1313/tags/data-structures/</loc>
   </url><url>
-    <loc>/tags/json/</loc>
+    <loc>//localhost:1313/tags/json/</loc>
   </url><url>
-    <loc>/tags/parsing/</loc>
+    <loc>//localhost:1313/tags/parsing/</loc>
   </url><url>
-    <loc>/tags/programming/</loc>
+    <loc>//localhost:1313/tags/programming/</loc>
   </url>
 </urlset>

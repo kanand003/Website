@@ -23,8 +23,6 @@ showPostNavLinks: true
 showWordCount: true
 showRssButtonInSectionTermList: true
 useHugoToc: true
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 ---
 # Singleton Pattern in Unity
 

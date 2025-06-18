@@ -23,7 +23,6 @@ showPostNavLinks: true
 showWordCount: true
 showRssButtonInSectionTermList: true
 useHugoToc: true
-    hidden: true # only hide on current single page
 ---
 
 ## What is Serialization?
