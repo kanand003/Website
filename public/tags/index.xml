@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anand Kumar</title>
-    <link>https://kanand003.github.io/Website/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Anand Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Mar 2025 20:20:12 +0530</lastBuildDate>
-    <atom:link href="https://kanand003.github.io/Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphics</title>
-      <link>https://kanand003.github.io/Website/tags/graphics/</link>
+      <link>/tags/graphics/</link>
       <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/graphics/</guid>
+      <guid>/tags/graphics/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://kanand003.github.io/Website/tags/performance/</link>
+      <link>/tags/performance/</link>
       <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/performance/</guid>
+      <guid>/tags/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>https://kanand003.github.io/Website/tags/unity/</link>
+      <link>/tags/unity/</link>
       <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/unity/</guid>
+      <guid>/tags/unity/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>https://kanand003.github.io/Website/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>HTTP</title>
-      <link>https://kanand003.github.io/Website/tags/http/</link>
+      <link>/tags/http/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/http/</guid>
+      <guid>/tags/http/</guid>
       <description></description>
     </item>
     <item>
       <title>Regex</title>
-      <link>https://kanand003.github.io/Website/tags/regex/</link>
+      <link>/tags/regex/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/regex/</guid>
+      <guid>/tags/regex/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://kanand003.github.io/Website/tags/web-development/</link>
+      <link>/tags/web-development/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/web-development/</guid>
+      <guid>/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Classes</title>
-      <link>https://kanand003.github.io/Website/tags/classes/</link>
+      <link>/tags/classes/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/classes/</guid>
+      <guid>/tags/classes/</guid>
       <description></description>
     </item>
     <item>
       <title>Structs</title>
-      <link>https://kanand003.github.io/Website/tags/structs/</link>
+      <link>/tags/structs/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/structs/</guid>
+      <guid>/tags/structs/</guid>
       <description></description>
     </item>
     <item>
       <title>Lerping</title>
-      <link>https://kanand003.github.io/Website/tags/lerping/</link>
+      <link>/tags/lerping/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/lerping/</guid>
+      <guid>/tags/lerping/</guid>
       <description></description>
     </item>
     <item>
       <title>Serialization</title>
-      <link>https://kanand003.github.io/Website/tags/serialization/</link>
+      <link>/tags/serialization/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/serialization/</guid>
+      <guid>/tags/serialization/</guid>
       <description></description>
     </item>
     <item>
       <title>Caching</title>
-      <link>https://kanand003.github.io/Website/tags/caching/</link>
+      <link>/tags/caching/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/caching/</guid>
+      <guid>/tags/caching/</guid>
       <description></description>
     </item>
     <item>
       <title>Singleton</title>
-      <link>https://kanand003.github.io/Website/tags/singleton/</link>
+      <link>/tags/singleton/</link>
       <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/singleton/</guid>
+      <guid>/tags/singleton/</guid>
       <description></description>
     </item>
     <item>
       <title>C#</title>
-      <link>https://kanand003.github.io/Website/tags/c%23/</link>
+      <link>/tags/c%23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/c%23/</guid>
+      <guid>/tags/c%23/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Structures</title>
-      <link>https://kanand003.github.io/Website/tags/data-structures/</link>
+      <link>/tags/data-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/data-structures/</guid>
+      <guid>/tags/data-structures/</guid>
       <description></description>
     </item>
     <item>
       <title>JSON</title>
-      <link>https://kanand003.github.io/Website/tags/json/</link>
+      <link>/tags/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/json/</guid>
+      <guid>/tags/json/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsing</title>
-      <link>https://kanand003.github.io/Website/tags/parsing/</link>
+      <link>/tags/parsing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/parsing/</guid>
+      <guid>/tags/parsing/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://kanand003.github.io/Website/tags/programming/</link>
+      <link>/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kanand003.github.io/Website/tags/programming/</guid>
+      <guid>/tags/programming/</guid>
       <description></description>
     </item>
   </channel>

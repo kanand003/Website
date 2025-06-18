@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kanand003.github.io/Website/projects/json_parser/</loc>
+    <loc>/projects/json_parser/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/about/</loc>
+    <loc>/</loc>
+    <lastmod>2025-06-11T23:38:05+05:30</lastmod>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/</loc>
+    <loc>/projects/brick/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/brick/</loc>
+    <loc>/projects/lily/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/lily/</loc>
+    <loc>/projects/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/</loc>
+    <loc>/projects/raytracer/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/raytracer/</loc>
+    <loc>/projects/wordle/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/wordle/</loc>
-    <lastmod>2025-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kanand003.github.io/Website/post/drawcalls/</loc>
+    <loc>/post/drawcalls/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/graphics/</loc>
+    <loc>/tags/graphics/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/performance/</loc>
+    <loc>/tags/performance/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/unity/</loc>
+    <loc>/tags/unity/</loc>
     <lastmod>2025-03-22T20:20:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/http/</loc>
+    <loc>/tags/http/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/regex/</loc>
+    <loc>/tags/regex/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/URL_Shortener/</loc>
+    <loc>/projects/URL_Shortener/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/web-development/</loc>
+    <loc>/tags/web-development/</loc>
     <lastmod>2024-09-02T22:25:12+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/classes/</loc>
+    <loc>/tags/classes/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/structs/</loc>
+    <loc>/tags/structs/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/structs_vs_classes/</loc>
+    <loc>/post/structs_vs_classes/</loc>
     <lastmod>2024-05-08T21:57:34+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/lerping/</loc>
+    <loc>/post/lerping/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/lerping/</loc>
+    <loc>/tags/lerping/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/serialization/</loc>
+    <loc>/post/serialization/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/serialization/</loc>
+    <loc>/tags/serialization/</loc>
     <lastmod>2024-05-03T22:52:30+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/caching/</loc>
+    <loc>/post/caching/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/caching/</loc>
+    <loc>/tags/caching/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/post/singleton/</loc>
+    <loc>/post/singleton/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/singleton/</loc>
+    <loc>/tags/singleton/</loc>
     <lastmod>2024-04-22T22:03:31+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/projects/tower/</loc>
+    <loc>/projects/tower/</loc>
     <lastmod>2023-08-01T22:37:32+05:30</lastmod>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/c%23/</loc>
+    <loc>/tags/c%23/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/data-structures/</loc>
+    <loc>/tags/data-structures/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/json/</loc>
+    <loc>/tags/json/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/parsing/</loc>
+    <loc>/tags/parsing/</loc>
   </url><url>
-    <loc>https://kanand003.github.io/Website/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
   </url>
 </urlset>
