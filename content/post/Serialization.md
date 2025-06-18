@@ -13,9 +13,8 @@ hidemeta: false
 comments: false
 description: "Serialization"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+disableHLJS: false # to disable highlightjs
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -41,6 +40,7 @@ Serialization is the process of converting a data object which is a combination 
 Serialization enables us to save the state of an object and recreate the object in a new location.Serialization encompasses both the storage of the object and exchange of data. Since objects are composed of several components, saving or delivering all the parts typically requires significant coding effort, so serialization is a standard way to capture the object into a sharable format.
 
 With serialisation we can transfer objects:
+
 - Over the wire for messaging use cases
 - From application to application via web services such as REST APIs
 - Through firewalls (as JSON or XML strings)
