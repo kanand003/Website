@@ -1,7 +1,7 @@
 ---
 title: "Singleton Pattern in Unity"
 date: 2024-04-22T22:03:31+05:30
-draft: false
+draft: true
 tags: ["Singleton", "Unity", "Design Patterns"]
 author: "Me"
 showToc: true
