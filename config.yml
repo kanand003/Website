@@ -76,18 +76,29 @@ params:
    # homeInfoParams:
    #  Title: "Hi there \U0001F44B"
    # Content: Welcome to my Website
+  social:
+    twitter: "And_K03"
+    youtube: "anand003"
+    github: "kanand003"
+    strava: "100945115"
+    email: "anand_kumar1999@hotmail.com"
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/And_K03"
-    - name: youtube
-      url: "https://www.youtube.com/@anand003"
-    - name: github
-      url: "https://github.com/kanand003"
-    - name: strava
-      url: "https://www.strava.com/athletes/100945115"
-    - name: email
-      url: "mailto:anand_kumar1999@hotmail.com?subject= Hi Anand"  
+  socialLinks:
+    github:
+      url: "https://github.com/%s"
+      text: "Follow on GitHub"
+    twitter:
+      url: "https://twitter.com/%s"
+      text: "Follow on Twitter"
+    youtube:
+      url: "https://www.youtube.com/@%s"
+      text: "Subscribe on YouTube"
+    strava:
+      url: "https://www.strava.com/athletes/%s"
+      text: "Follow on Strava"
+    email:
+      url: "mailto:%s?subject=Hi Anand"
+      text: "Send an email"
 
   analytics:
     google:

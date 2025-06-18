@@ -18,9 +18,9 @@ searchHidden: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+showWordCount: true
+showRssButtonInSectionTermList: true
+useHugoToc: true
 ---
 
 ## Introduction

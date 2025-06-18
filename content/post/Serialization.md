@@ -18,16 +18,11 @@ disableHLJS: false
 hideSummary: false
 searchHidden: true
 showReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+showBreadCrumbs: true
+showPostNavLinks: true
+showWordCount: true
+showRssButtonInSectionTermList: true
+useHugoToc: true
     hidden: true # only hide on current single page
 ---
 
