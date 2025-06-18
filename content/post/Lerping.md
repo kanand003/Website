@@ -1,6 +1,7 @@
 ---
 title: "Lerping"
 date: 2024-05-03T22:52:30+05:30
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["Lerping"]

@@ -1,7 +1,7 @@
 ---
 title: "Draw Calls in Unity"
 date: 2025-03-22T20:20:12+05:30
-draft: false
+draft: true
 tags: ["Unity", "Performance", "Graphics"]
 author: "Me"
 # weight: 1 // To Pin a Post

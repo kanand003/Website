@@ -2,136 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anand Kumar</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Anand Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Mar 2025 20:20:12 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Graphics</title>
-      <link>//localhost:1313/tags/graphics/</link>
-      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/graphics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Performance</title>
-      <link>//localhost:1313/tags/performance/</link>
-      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/performance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unity</title>
-      <link>//localhost:1313/tags/unity/</link>
-      <pubDate>Sat, 22 Mar 2025 20:20:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/unity/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 02 Sep 2024 22:25:12 +0530</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go</title>
-      <link>//localhost:1313/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>HTTP</title>
-      <link>//localhost:1313/tags/http/</link>
+      <link>/tags/http/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/http/</guid>
+      <guid>/tags/http/</guid>
       <description></description>
     </item>
     <item>
       <title>Regex</title>
-      <link>//localhost:1313/tags/regex/</link>
+      <link>/tags/regex/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/regex/</guid>
+      <guid>/tags/regex/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>//localhost:1313/tags/web-development/</link>
+      <link>/tags/web-development/</link>
       <pubDate>Mon, 02 Sep 2024 22:25:12 +0530</pubDate>
-      <guid>//localhost:1313/tags/web-development/</guid>
+      <guid>/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Classes</title>
-      <link>//localhost:1313/tags/classes/</link>
+      <link>/tags/classes/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>//localhost:1313/tags/classes/</guid>
+      <guid>/tags/classes/</guid>
       <description></description>
     </item>
     <item>
       <title>Structs</title>
-      <link>//localhost:1313/tags/structs/</link>
+      <link>/tags/structs/</link>
       <pubDate>Wed, 08 May 2024 21:57:34 +0530</pubDate>
-      <guid>//localhost:1313/tags/structs/</guid>
+      <guid>/tags/structs/</guid>
       <description></description>
     </item>
     <item>
       <title>Lerping</title>
-      <link>//localhost:1313/tags/lerping/</link>
+      <link>/tags/lerping/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>//localhost:1313/tags/lerping/</guid>
+      <guid>/tags/lerping/</guid>
       <description></description>
     </item>
     <item>
       <title>Serialization</title>
-      <link>//localhost:1313/tags/serialization/</link>
+      <link>/tags/serialization/</link>
       <pubDate>Fri, 03 May 2024 22:52:30 +0530</pubDate>
-      <guid>//localhost:1313/tags/serialization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Caching</title>
-      <link>//localhost:1313/tags/caching/</link>
-      <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>//localhost:1313/tags/caching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Singleton</title>
-      <link>//localhost:1313/tags/singleton/</link>
-      <pubDate>Mon, 22 Apr 2024 22:03:31 +0530</pubDate>
-      <guid>//localhost:1313/tags/singleton/</guid>
+      <guid>/tags/serialization/</guid>
       <description></description>
     </item>
     <item>
       <title>C#</title>
-      <link>//localhost:1313/tags/c%23/</link>
+      <link>/tags/c%23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/c%23/</guid>
+      <guid>/tags/c%23/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Structures</title>
-      <link>//localhost:1313/tags/data-structures/</link>
+      <link>/tags/data-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/data-structures/</guid>
+      <guid>/tags/data-structures/</guid>
       <description></description>
     </item>
     <item>
       <title>JSON</title>
-      <link>//localhost:1313/tags/json/</link>
+      <link>/tags/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/json/</guid>
+      <guid>/tags/json/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsing</title>
-      <link>//localhost:1313/tags/parsing/</link>
+      <link>/tags/parsing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/parsing/</guid>
+      <guid>/tags/parsing/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
+      <link>/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/programming/</guid>
+      <guid>/tags/programming/</guid>
       <description></description>
     </item>
   </channel>
