@@ -9,15 +9,15 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: "Singleton Pattern"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false
 disableShare: false
 hideSummary: false
 searchHidden: true
+showReadingTime: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -14,10 +14,10 @@ comments: false
 description: "Serialization"
 canonicalURL: "https://canonical.url/to/page"
 disableShare: false
-disableHLJS: false # to disable highlightjs
+disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+showReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true

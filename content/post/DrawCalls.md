@@ -15,9 +15,9 @@ disableHLJS: false
 disableShare: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+showReadingTime: true
+showBreadCrumbs: true
+showPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true

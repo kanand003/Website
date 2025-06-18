@@ -13,11 +13,11 @@ hidemeta: false
 comments: false
 description: "Lerping"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: false # to disable highlightjs
+disableHLJS: false
 disableShare: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+showReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
