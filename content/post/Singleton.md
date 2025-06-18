@@ -1,17 +1,14 @@
 ---
-title: "Singleton"
+title: "Singleton Pattern in Unity"
 date: 2024-04-22T22:03:31+05:30
 draft: false
-# weight: 1
-# aliases: ["/first"]
-tags: ["Singleton"]
+tags: ["Singleton", "Unity", "Design Patterns"]
 author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "Singleton Pattern"
+description: "Understanding and implementing the Singleton pattern in Unity"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false
 disableShare: false
@@ -24,81 +21,90 @@ showWordCount: true
 showRssButtonInSectionTermList: true
 useHugoToc: true
 ---
-# Singleton Pattern in Unity
 
-## 1. Introductory Overview
+## Introductory Overview
+
 - **Pattern Name**: Singleton Pattern
 - **One-Sentence Summary**: The Singleton pattern ensures that a class has only one instance and provides a global point of access to it, making it ideal for managing game-wide services in Unity.
-<!-- - **Visual/GIF**: ![Singleton Pattern Diagram](path/to/your/singleton-diagram.png)  
-  *(Replace with the actual path to your visual aid)* -->
-## 2. Problem Context
+
+## Problem Context
+
 - **Practical Scenario**: In many games, you need a centralized manager for handling game states, audio, or settings. For example, a GameManager that persists across scenes to track player progress and game state.
 - **Relatable Context**: Managing multiple instances of a game manager can lead to inconsistent game states and bugs, making the Singleton pattern a practical solution.
 
-## 3. Implementation Guide
-- **Code Snippets**: 
-    ```csharp
-    // SingletonExample.cs
-    using UnityEngine;
+## Implementation Guide
 
-    public class SingletonExample : MonoBehaviour
+Here's a basic implementation of the Singleton pattern in Unity:
+
+```csharp
+// SingletonExample.cs
+using UnityEngine;
+
+public class SingletonExample : MonoBehaviour
+{
+    private static SingletonExample _instance;
+
+    public static SingletonExample Instance
     {
-        private static SingletonExample _instance;
-
-        public static SingletonExample Instance
+        get
         {
-            get
+            if (_instance == null)
             {
+                _instance = FindObjectOfType<SingletonExample>();
                 if (_instance == null)
                 {
-                    _instance = FindObjectOfType<SingletonExample>();
-                    if (_instance == null)
-                    {
-                        GameObject singletonObject = new GameObject();
-                        _instance = singletonObject.AddComponent<SingletonExample>();
-                        singletonObject.name = typeof(SingletonExample).ToString() + " (Singleton)";
-                    }
+                    GameObject singletonObject = new GameObject();
+                    _instance = singletonObject.AddComponent<SingletonExample>();
+                    singletonObject.name = typeof(SingletonExample).ToString() + " (Singleton)";
                 }
-                return _instance;
             }
-        }
-
-        private void Awake()
-        {
-            if (_instance != null && _instance != this)
-            {
-                Destroy(gameObject);
-            }
-            else
-            {
-                _instance = this;
-                DontDestroyOnLoad(gameObject);
-            }
-        }
-
-        public void ExampleMethod()
-        {
-            Debug.Log("Singleton method called!");
+            return _instance;
         }
     }
-    ```
-- **Annotated Comments**: 
-    - Add comments in the code snippets to explain the purpose of each section, such as:
-        ```csharp
-        // Static instance of the class
-        private static SingletonExample _instance;
-        ```
 
-## 4. Pros and Cons
-- **Pros**:
-    - Ensures a single instance, preventing conflicts.
-    - Easy global access to the instance.
-    - Useful for managing game-wide services.
-- **Cons**:
-    - Can lead to tight coupling if overused.
-    - Difficult to test due to global state.
-- **Alternatives**: Discuss alternatives like Dependency Injection for more complex scenarios.
+    private void Awake()
+    {
+        if (_instance != null && _instance != this)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+            _instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+    }
 
-## 5. Conclusion
-- **Key Takeaways**: The Singleton pattern is a powerful tool for managing global state in Unity, but it should be used judiciously to avoid potential pitfalls.
-- **Tips for Extension**: Consider combining the Singleton pattern with other design patterns, like the Observer pattern, to create a more flexible architecture.
+    public void ExampleMethod()
+    {
+        Debug.Log("Singleton method called!");
+    }
+}
+```
+
+## Key Components
+
+- **Instance Property**: Handles lazy initialization and access to the singleton instance
+- **Awake Method**: Ensures only one instance exists across scenes
+- **DontDestroyOnLoad**: Keeps the instance alive between scene loads
+
+## Pros and Cons
+
+### Pros
+
+- Ensures a single instance, preventing conflicts
+- Easy global access to the instance
+- Useful for managing game-wide services
+
+### Cons
+
+- Can lead to tight coupling if overused
+- Difficult to test due to global state
+- Can make code harder to maintain
+
+## Best Practices
+
+1. Use Singleton sparingly - only for truly global states
+2. Consider alternatives like dependency injection for complex scenarios
+3. Implement proper cleanup in OnDestroy when needed
+4. Document usage patterns for team reference
