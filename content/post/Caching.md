@@ -9,7 +9,6 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: "Caching"
@@ -24,8 +23,6 @@ showPostNavLinks: true
 showWordCount: true
 showRssButtonInSectionTermList: true
 useHugoToc: true
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 ---
 
 # Caching
